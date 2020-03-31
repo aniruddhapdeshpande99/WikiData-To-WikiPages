@@ -1,7 +1,7 @@
 import json
 from qwikidata.entity import WikidataItem, WikidataLexeme, WikidataProperty
 from qwikidata.linked_data_interface import get_entity_dict_from_api
-with open('../../Downloads/en_monument_dump_part1.json') as f:
+with open('../../Data/en_monument_dump_part1.json') as f:
 	monument_list = json.load(f)
 
 qualifiers_list, property_list, references_list = [], [], []
