@@ -8,7 +8,7 @@ qualifiers_list, property_list, references_list = [], [], []
 final_qualifiers_list, final_references_list, final_monument_list = {}, {}, {}
 
 for monument in monument_list:
-	for key, val in monument_list[9].items():
+	for key, val in monument.items():
 		if key == "title":
 			monument['title'] = WikidataItem(get_entity_dict_from_api(str(val))).get_label()
 		elif key == "id":
@@ -71,8 +71,8 @@ for monument in monument_list:
 						if isinstance(values['qualifiers'][key3][0]['datavalue']['value'], dict) and "id" in values['qualifiers'][key3][0]['datavalue']['value']:
 							values['qualifiers'][key3][0]['datavalue']['value']['id'] = WikidataItem(get_entity_dict_from_api(values['qualifiers'][key3][0]['datavalue']['value']['id'])).get_label()
 
-'''for monument in monument_list:
+for monument in monument_list:
 	for key, val in monument['claims'].items():
 		print(key, val)
 		print("\n")
-	print("\n\n")'''
+	print("\n\n")
