@@ -2,14 +2,14 @@ import json
 
 monument_list, hindi_monument_wikipedia = [], []
 
-with open('../../Downloads/WikiData-To-WikiPages/Data/Hindi_Labelled_Wikipages/labelled_prop_values.json') as f:
+with open('../Hindi_Labelled_Wikipages/labelled_prop_values.json') as f:
 	monument_list = json.load(f)
 
-f = open('../../Downloads/WikiData-To-WikiPages/Data/Formatted_Data/test/test.id', 'r')
+f = open('../Formatted_Data/test/test.id', 'r')
 
-g = open('../../Downloads/WikiData-To-WikiPages/Data/Formatted_Data/train/train.id', 'r')
+g = open('../Formatted_Data/train/train.id', 'r')
 
-x = open('../../Downloads/WikiData-To-WikiPages/Data/Formatted_Data/valid/valid.id', 'r')
+x = open('../Formatted_Data/valid/valid.id', 'r')
 
 train_ids = g.read().split('\n')[:-1]
 
@@ -47,7 +47,9 @@ for i in range(len(valid_ids)):
 				valid.append(monument)
 				break
 
-f = open('train.box', 'w+')
+train_box = open('train.box', 'w+')
+test_box = open('test.box', 'w+')
+valid_box = open('valid.box', 'w+')
 
 for monument in train:
 	for val in monument.values():
@@ -57,19 +59,69 @@ for monument in train:
 				for key1, val1 in val[0].items():
 					if len(str(val1).split()) == 1:
 						y = x + "_" + key1 + "_" + "1" + ":" + str(val1) + '\t'
-						f.write(y)
+						train_box.write(y)
 					else:
 						length = len(str(val1).split())
 						for i in range(1, length + 1):
 							z = x + "_" + key1 + "_" + "1" + "_" + str(i) + ":" + str(val1).split()[i - 1] + '\t'
-							f.write(z)
+							train_box.write(z)
 			else:
 				for value in val:
 					if len(str(value).split()) == 1:
 						k = x + "_" + "1" + ":" + str(value) + "\t"
-						f.write(k)
+						train_box.write(k)
 					else:
 						for i in range(1, len(str(value).split()) + 1):
 							m = x + "_" + "1" + "_" + str(i) + ":" + str(value).split()[i - 1] + "\t"
-							f.write(m)
-	f.write("\n")
+							train_box.write(m)
+	train_box.write("\n")
+
+for monument in test:
+	for val in monument.values():
+		for key, val in val.items():
+			x = "_".join(key.split())
+			if isinstance(val[0], dict):
+				for key1, val1 in val[0].items():
+					if len(str(val1).split()) == 1:
+						y = x + "_" + key1 + "_" + "1" + ":" + str(val1) + '\t'
+						test_box.write(y)
+					else:
+						length = len(str(val1).split())
+						for i in range(1, length + 1):
+							z = x + "_" + key1 + "_" + "1" + "_" + str(i) + ":" + str(val1).split()[i - 1] + '\t'
+							test_box.write(z)
+			else:
+				for value in val:
+					if len(str(value).split()) == 1:
+						k = x + "_" + "1" + ":" + str(value) + "\t"
+						test_box.write(k)
+					else:
+						for i in range(1, len(str(value).split()) + 1):
+							m = x + "_" + "1" + "_" + str(i) + ":" + str(value).split()[i - 1] + "\t"
+							test_box.write(m)
+	test_box.write("\n")
+
+for monument in valid:
+	for val in monument.values():
+		for key, val in val.items():
+			x = "_".join(key.split())
+			if isinstance(val[0], dict):
+				for key1, val1 in val[0].items():
+					if len(str(val1).split()) == 1:
+						y = x + "_" + key1 + "_" + "1" + ":" + str(val1) + '\t'
+						valid_box.write(y)
+					else:
+						length = len(str(val1).split())
+						for i in range(1, length + 1):
+							z = x + "_" + key1 + "_" + "1" + "_" + str(i) + ":" + str(val1).split()[i - 1] + '\t'
+							valid_box.write(z)
+			else:
+				for value in val:
+					if len(str(value).split()) == 1:
+						k = x + "_" + "1" + ":" + str(value) + "\t"
+						valid_box.write(k)
+					else:
+						for i in range(1, len(str(value).split()) + 1):
+							m = x + "_" + "1" + "_" + str(i) + ":" + str(value).split()[i - 1] + "\t"
+							valid_box.write(m)
+	valid_box.write("\n")
