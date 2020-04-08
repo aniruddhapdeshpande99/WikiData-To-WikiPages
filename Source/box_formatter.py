@@ -1,15 +1,16 @@
 import json
 
-monument_list, hindi_monument_wikipedia = [], []
+monument_list, hindi_monument_wikipedia = {}, []
 
-with open('../Data/Hindi_Labelled_Wikipages/labelled_prop_values.json') as f:
-	monument_list = json.load(f)
+for i in range(1,103):
+    with open('../Data/English_Labelled_Wikidata/en_labelled_part'+str(i)+'.json') as f:
+        monument_list.update(json.load(f))
 
-f = open('../Data/Formatted_Data/test/test.id', 'r')
+f = open('../Data/WikiBio_Styled_Formatted_Data/English_Monuments/test/test.id', 'r')
 
-g = open('../Data/Formatted_Data/train/train.id', 'r')
+g = open('../Data/WikiBio_Styled_Formatted_Data/English_Monuments/train/train.id', 'r')
 
-x = open('../Data/Formatted_Data/valid/valid.id', 'r')
+x = open('../Data/WikiBio_Styled_Formatted_Data/English_Monuments/valid/valid.id', 'r')
 
 train_ids = g.read().split('\n')[:-1]
 
@@ -47,9 +48,9 @@ for i in range(len(valid_ids)):
 				valid.append(monument)
 				break
 
-train_box = open('../Data/Formatted_Data/train/train.box', 'w+')
-test_box = open('../Data/Formatted_Data/test/test.box', 'w+')
-valid_box = open('../Data/Formatted_Data/valid/valid.box', 'w+')
+train_box = open('../Data/WikiBio_Styled_Formatted_Data/English_Monuments/train/train.box', 'w+')
+test_box = open('../Data/WikiBio_Styled_Formatted_Data/English_Monuments/test/test.box', 'w+')
+valid_box = open('../Data/WikiBio_Styled_Formatted_Data/English_Monuments/valid/valid.box', 'w+')
 
 for monument in train:
 	for val in monument.values():
