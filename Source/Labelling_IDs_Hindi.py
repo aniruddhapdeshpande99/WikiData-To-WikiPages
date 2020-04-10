@@ -3,7 +3,7 @@
 
 # #### 1. Importing Libraries
 
-# In[1]:
+# In[3]:
 
 
 import json
@@ -16,10 +16,11 @@ from googletrans import Translator
 
 # #### 2. Reading Monument List
 
-# In[2]:
+# In[4]:
 
 
 monument_list = []
+translations_count = 0
 
 with open('../Data/Wikidata_JSON/hi_monument_dump.json') as f:
     new_list = json.load(f)
@@ -32,7 +33,14 @@ with open('../Data/Wikidata_JSON/hi_monument_dump.json') as f:
 
 
 def str_translator(string_text):
+    if translations_count%2 == 0:
+        time.sleep(2)
+    
+    elif translations_count%10 == 0:
+        time.sleep(15)
+    
     translator = Translator()
+    translations_count += 1
     return translator.translate(string_text, dest='hi').text
 
 def extract_dict_hindi_labels(value_dictionary):
@@ -53,8 +61,6 @@ label_list = {}
 non_labelled_props = ['P727']
 
 t0 = time.time()
-
-index = 0
 
 count_monuments = 0
 
@@ -154,4 +160,10 @@ total = t1-t0
 
 print(total)
 labelled_monument_list
+
+
+# In[ ]:
+
+
+
 
