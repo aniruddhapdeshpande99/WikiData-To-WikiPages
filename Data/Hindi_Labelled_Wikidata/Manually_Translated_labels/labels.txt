@@ -1,0 +1,3087 @@
+Commons category
+image
+located in the administrative territorial entity
+coordinate location
+Freebase ID
+country
+architect
+instance of
+dedicated to
+heritage designation
+official website
+architectural style
+diocese
+Bien de Interés Cultural (BIC) code
+religion
+location
+inception
+patron saint
+maximum capacity
+category for the interior of the item
+Basílica de Nuestra Señora de la Candelaria
+Tenerife.candelaria.exterior.basilica.jpg
+Candelaria BW 4.JPG
+Candelaria
+latitude
+longitude
+altitude
+precision
+globe
+http://www.wikidata.org/entity/Q2
+/m/09gmvvw
+Spain
+José Enrique Marrero Regalado
+minor basilica
+monument
+Shrine to the Virgin Mary
+Virgin Mary
+Bien de Interés Cultural
+https://basilicadecandelaria.wordpress.com/
+Neoclassical architecture
+Roman Catholic Diocese of San Cristóbal de La Laguna
+RI-51-0007410
+Catholicism
+Tenerife
+time
+timezone
+before
+after
+calendarmodel
++1959-00-00T00:00:00Z
+http://www.wikidata.org/entity/Q1985727
+Virgin of Candelaria
+amount
+unit
++5000
+1
+Category:Interior of the Basílica de Nuestra Señora de la Candelaria
+GeoNames ID
+VIAF ID
+Library of Congress authority ID
+Vatican Library ID
+topic's main category
+Biblioteca Nacional de España ID
+Commons gallery
+Commons Institution page
+height
+native label
+plan view image
+WorldCat Identities ID
+La Laguna Cathedral
+Catedral de La Laguna, Tenerife.jpg
+San Cristóbal de La Laguna
+/m/09gffy6
+Catholic cathedral
+6452845
+126740026
+n85257612
+ADV11769165
+Category:La Laguna Cathedral
+http://lalagunacatedral.com
+XX96589
+Catedral de Nuestra Señora de los Remedios (San Cristóbal de La Laguna)
+Gothic Revival architecture
+RI-51-0004949
++1904-00-00T00:00:00Z
++41.5
+http://www.wikidata.org/entity/Q11573
+text
+language
+Catedral de San Cristóbal de La Laguna
+es
+Planta de la Catedral La Laguna.jpg
+Category:Interior of the La Laguna Cathedral
+lccn-n85257612
+visitors per year
+part of
+KML file
+Quora topic ID
+title
+topic's main template
+Facebook ID
+YouTube channel ID
+has list
+mix'n'match catalogue ID
+located on street
+has parts of the class
+Disney A to Z ID
+Hollywood Walk of Fame
+United States of America
+Hollywood
+avenue
+hall of fame
+walk of fame
+tourist attraction
+Walk of fame.JPG
+http://www.walkoffame.com/
+/m/0qjfl
+Category:Hollywood Walk of Fame
++1958-01-01T00:00:00Z
++10000000
+6946524
+156731224
+Hollywood Boulevard
+Template:Attached KML/Hollywood Walk of Fame
+Hollywood-Walk-of-Fame
+en
+Template:Hollywood Walk of Fame
+OfficialHollywoodWalkofFame
+UCI01U8ftYn2JQgIsZ2ab2bw
+list of stars on the Hollywood Walk of Fame
+1021
+Vine Street
+star on Hollywood Walk of Fame
+Los Angeles Historic-Cultural Monument
+hollywood-walk-fame
+CANTIC ID
+ULAN ID
+NKCR AUT ID
+CiNii article ID
+Libraries Australia ID
+GND ID
+Portuguese National Library ID
+Twitter username
+DOCOMOMO Ibérico ID
+RERO ID
+Athenaeum museum ID
+Google Arts & Culture partner ID
+headquarters location
+Dialnet author ID
+ISNI
+IdRef ID
+Bibliothèque nationale de France ID
+external data available at
+director/manager
+Bilbao Fine Arts Museum
+http://www.museobilbao.com/
+Bilbao - Museo de Bellas Artes 05.jpg
+/m/0cjv0_
+134881465
+140621399
+143642978
+Bilbao
+art museum
++1908-00-00T00:00:00Z
+a10128116
+500279772
+500304559
+n82003172
+Museo de Bellas Artes de Bilbao
+ko2003164880
+DA16584330
+36543445
+ADV12114298
+XX128268
+1014232-0
+918656
+museo_bilbao
+900
+02-A017500795
+450
+RI-51-0001424
+museo-de-bellas-artes-de-bilbao
+2011894
+Category:Bilbao Fine Arts Museum
+0000 0001 2292 8369
+035211687
+131746731
+http://www.euskadi.eus/app/ondarea/eraikita-ondarea/arte-ederren-museoa/museoa/bilbao/abando/fichaconsulta/29406
+http://www.euskadi.eus/app/ondarea/patrimonio-construido/museo-de-bellas-artes/museo/bilbao/abando/fichaconsulta/29406
+Miguel Zugaza Miranda
+Category:Interior of the Bilbao Fine Arts Museum
+World Heritage Site ID
+exhibition history
+Gran Enciclopèdia Catalana ID
+width
+creator
+depicts
+Great Russian Encyclopedia Online ID
+Encyclopædia Universalis ID
+fabrication method
+continent
+Encyclopædia Britannica Online ID
+time of discovery or invention
+Google Doodle
+different from
+area
+French Vikidia ID
+Basque Vikidia ID
+cave with prehistoric art
+cave
+310
+310-001
+/m/02403f
+Cave of Altamira and Paleolithic Cave Art of Northern Spain
+Altamira (cave)
+3130237
+Techo de Altamira (replica)-Museo Arqueológico Nacional.jpg
+316732820
+part of World Heritage Site
+UNESCO World Heritage Site
+Europeana 280
+0003079
+upperBound
+lowerBound
++22.50
++22.51
++22.49
++11
++12
++10
+anonymous
+animal
+-35000-00-00T00:00:00Z
+http://www.wikidata.org/entity/Q1985786
+Santillana del Mar
+XX451077
+1816081
+RI-51-0000266
+altamira
+rock art
+Europe
+place/Altamira
++1879-00-00T00:00:00Z
+celebrating-altamira-cave
++0.32
+http://www.wikidata.org/entity/Q35852
++16
+xx0053011
+Grotte_d'Altamira
+Altamirako_leizea
+owned by
+nighttime view
+elevation above sea level
+Monas
+Indonesia
+Merdeka Square Monas 02.jpg
+/m/03q7hs
+6694056
+Jakarta
++1975-07-12T00:00:00Z
+Monumen Nasional
+id
+Monas avond.JPG
++4
+monumen-nasional‎
+Hostal of the Reyes Católicos, Santiago de Compostela
+/m/0pdbn26
+Enrique Egas
+hotel
+pilgrims Hospital
+former hospital
+Paradores de Turismo de España
+129069931
+Hostal dos Reis Católicos. Praza do obradoiro. Santiago de Compostela.jpg
+Plateresque
+Hostal dos Reis Católicos, Santiago
+RI-51-0000543
+Category:Hostal of the Reyes Católicos, Santiago de Compostela
+094979650
+n85126615
+lccn-n85126615
+COAM structure ID
+follows
+NUKAT ID
+National Library of Israel ID
+BabelNet ID
+use
+Sotheby's Museum Network ID
+commissioned by
+significant event
+locator map image
+detail map
+has part
+Palacio Real de Madrid
+Royal Palace of Madrid
+Madrid
+Madrid Palacio Real 079.jpg
+/m/04m3yk
+4281670-1
+3003280-5
+royal palace
+château
+tourist destination
+6255079
+Category:Royal Palace of Madrid
+Filippo Juvarra
+Francesco Sabatini
+122308504
+173785943
+RI-51-0001061
+sh85096940
+n50052369
+F1.62
++1738-00-00T00:00:00Z
+Royal Alcazar of Madrid
+0000 0001 2149 8264
+ADV10113990
+XX131198
+a12209764
+n2008061669
+500242116
+500302414
+DA14209330
+000209729
+000592180
+35387464
+ko2007396763
+Patrimonio Nacional
+baroque architecture
+WLM14ES - Palacio Real - Hugo Díaz-Regañón.jpg
+3812243
+00414724n
+2098929
+12312809z
+032018673
+official residence
+palacio-real-de-madrid
+Louis
+start of manufacturing or construction
+Mapa del Palacio Real de Madrid.png
+Evolución Alcázar de Madrid.png
+Main Staircase (Royal Palace of Madrid)
+Real Capilla de Madrid
+https://www.patrimonionacional.es/real-sitio/palacio-real-de-madrid
++135.000
+http://www.wikidata.org/entity/Q25343
+Palais_royal_de_Madrid
+Category:Interior of the Royal Palace of Madrid
+lccn-n50052369
+named after
+BDCYL authority ID
+NORAF ID
+archINFORM project ID
+owner of
+Cathedral of Santiago de Compostela
+Catedral de Santiago de Compostela agosto 2018 (cropped).jpg
+Catholic pilgrimage site
+http://www.catedraldesantiago.es
+construction
+/m/07nqq_
+Roman Catholic Archdiocese of Santiago de Compostela
+4224747-0
+James
+Category:Cathedral of Santiago de Compostela
+122531297
+Catedral de Santiago de Compostela
+n85379208
+145119610
+RI-51-0000072
+Santiago.de.Compostela.Catedral.Noche.jpg
+13442
+XX96635
+98071841
+a18526044
+000029300
+ADV11741493
++0801-01-17T00:00:00Z
+Fernando de Casas Novoa
+basilique-saint-jacques-de-compostelle-reperes-chronologiques
+basilique-saint-jacques-de-compostelle
+place/Cathedral-of-Santiago-de-Compostela
+Romanesque architecture
+13952
+Museo de la Catedral de Santiago de Compostela
+Planta de la Catedral de Santiago. La Catedral de Santiago. Breve descripción histórica con la planta y un diseño iconográfico.jpg
++1200
+lccn-n85379208
+Catalan object of cultural interest ID
+Structurae structure ID
+Inventari del Patrimoni Arquitectònic de Catalunya code
+material used
+member of
+nickname
+floors above ground
+73-MH-EN
+Casa Milà
+list of Modernista buildings in Barcelona
+Iconic Houses Network
+Works of Antoni Gaudí
+Casa Milà, general view.jpg
+/m/0nw8
+multiple dwellings
+Antoni Gaudí
+Art Nouveau
+7670508
+Cultural Asset of National Interest
+233804842
+4272426-0
+sh85099212
+20003133
+RI-51-0003814
+320-003
++1901-00-00T00:00:00Z
+77
+https://www.lapedrera.com
+stone
+place/Casa-Mila
+00521759n
+0049660
+Category:Casa Milà
+386
+Eixample
+la Pedrera
+ca
++0.5
+Category:Interior of Casa Milà
++8
+World Heritage Tentative List ID
+World Heritage criteria
+category for people born here
+Treccani's Dizionario di Storia ID
+Medina Azahara
+/m/08bc8h
+4196327-1
+archaeological site
+2513963
+120707934
+Medina-al-Zahra.jpg
+Tentative World Heritage Site
+RI-51-0000252
+Córdoba
+0039044
+5978
+unique to a cultural tradition
+object illustrates  significant stage in human history
++1000-00-00T00:00:00Z
+1560
+Category:Births in Medina Azahara
+madinat-al-zahra
+viaf-120707934
+described by source
+Digital Atlas of the Roman Empire ID
+Patrimonio Web JCyL ID
+Google Maps Customer ID
+ASCE Historical Civil Engineering Landmark ID
+vici.org ID
+on focus list of Wikimedia project
+Atlas Obscura identifier
+Aqueduct of Segovia
+Roman Empire
+Aqueduct of Segovia 08.jpg
+Roman aqueduct
+stone bridge
+arch bridge
+aqueduct
+Segovia
+/m/0bg7hc
+Old Town of Segovia and its Aqueduct
+6452882
+Nordisk familjebok
+39483
+316733106
+Acueducto de Segovia
+RI-51-0000043
+11669
+Roman Aqueduct Segovia night 2012 Spain.jpg
+2041476169114279468
+449
+Category:Aqueduct of Segovia
+6844
+topic/Segovia-aqueduct
+acueduto-de-segovia
+7855
+WikiProject Livius
+segovia-aqueduct
+ARLHS Lighthouse ID
+located in or next to body of water
+Admiralty number
+NGA Lighthouse ID
+MarineTraffic Lighthouse ID
+Online List of Lights ID
+light characteristic of lighthouse
+focal height
+lighthouse range
+Emporis building ID
+Hispania Nostra Red List code
+Torre de Hércules
+A coruna torre de hercules sunset edit.jpg
+1312
+/m/04_gyz
+lighthouse
+fortified tower
+A Coruña
+25836
+Red List of Endangered Heritage item
+SPA276
+http://www.torredeherculesacoruna.com
+Atlantic Ocean
++0100-00-00T00:00:00Z
+20002462
++49
+D1704
+113-2548
+1000007451
+11944
+Fl(4) W 20s
++106
++23
+http://www.wikidata.org/entity/Q93318
+133412
+10281499
+ancient Roman architecture
+tread
+RI-51-0000540
+torre_de_hercules
+topic/Tower-of-Hercules
+Torre de Hércules.004 - A Coruña.jpg
+Church of Nuestra Señora de la Purificación, Gazólaz
+church building
+building
+Iglesia de Gazólaz.jpg
++1300-00-00T00:00:00Z
+RI-51-0000765
+Cizur
+Roman Catholic Archdiocese of Pamplona y Tudela
+Gazolaz
+Way of Saint James in Navarre
+669-311
+IGPCV ID
+Castell de Biar
+/m/0gj8fks
+castle
+cultural heritage in Alicante
+316735491
+Biar
+Castillo de Biar.jpg
+RI-51-0000369
+03.28.043-003
+postal code
+Serbia
+Niš
+/m/01w4vp
+792016
+Ćele kula, Niš, Srbija.jpg
+Cultural Monument of Exceptional Importance
+tower
+Ćele-kula
+Ottoman architecture
+18000
+place/Cele-Kula
+skull-tower-nis
+category of people buried here
+Catholic rite
+Cathedral of Pamplona
+Pamplona
+/m/04141dv
+6452800
+4409068-7
+Gothic architecture
+Category:Cathedral of Pamplona
+Fachada catedral de pamplona.jpg
+Category:Burials at Pamplona Cathedral
+http://www.catedraldepamplona.com/
+Catedral de Santa María la Real de Pamplona
+138431265
+49284806
+n84221444
+XX117428
+181600358
+155933364
+20028916
+RI-51-0000755
++1394-00-00T00:00:00Z
+669-185
+Assumption of Mary
+Category:Interior of the Cathedral of Pamplona
+Roman Rite
+/m/0pdd23c
+Castro de Elviña
+25865
+Castro de Elviña Vista xeral.JPG
+hillfort
+A Coruña Province
+10281514
+RI-51-0001434
++100
+Cathedral of Jaén
+Jaén
+/m/0403zkt
+Jaén-Catedral de la Asunción VPSM-20110919.jpg
+266672355
+Roman Catholic Diocese of Jaén
+n94083134
+kn20090904007
+148120075
+4606645-7
+Andrés de Vandelvira
+Category:Cathedral of Jaén
++1249-00-00T00:00:00Z
+RI-51-0000645
+http://www.catedraldejaen.org
+5667
+Renaissance architecture
+masterpiece of human creative genius
+on developments in architecture or technology, monumental arts, town-planning or landscape design
+LNB ID
+NLP ID (unique)
+HelveticArchives ID
+NSK ID
+Wikidata property
+Instagram username
+compArt institution ID
+Directorio de Museos y Colecciones de España ID
+replaces
+Microsoft Academic ID
+Manuel Borja-Villel
+Museo Nacional Centro de Arte Reina Sofía
+Sabatini Building, Museo Nacional Centro de Arte Reina Sofía
+http://www.museoreinasofia.es
+MNCARS 05.jpg
+/m/01jcyh
+national museum
++1992-00-00T00:00:00Z
++2087415
++3249591
++3646598
+819828-7
+Museo Reina Sofía
+Jean Nouvel
+147875412
+158043588
+231144783046942425452
+153034890
+313033152
+Categoria:Museo Reina Sofia
+XX139923
+XX253863
+kn20020906012
+ko2002149160
+n02060795
+0000 0001 2295 7936
+0000 0001 2296 7675
+n93059777
+n87903894
+F1.74
+Queen Sofía of Spain
+000096588
+DA08669063
+DA09375534
+000109601
+A21269361
+vtls000043634
+35389826
+a1006395x
+336770
+12235250q
+500270374
+03106213X
+000594859
+museoreinasofia
+Museo-Nacional-Centro-De-Arte-Reina-Sofía
+02-A000185177
+20033178
+1898
+MNCARS artist ID
+RI-51-0004260
+268
+2994
+843
+Museo Español de Arte Contemporáneo
+museo-reina-sofia
+1288595188
+Category:Interior of the Museo Nacional Centro de Arte Reina Sofía
+OSM relation ID
+street address
+60-MH-EN
+Casa Batlló
+Casa Batllo Overview Barcelona Spain cut.jpg
+320-006
+/m/0nv9
+6452873
+Emilio Sala Cortés
+249401770
+226208209
+7555951-1
+sh2002008628
+RI-51-0003815
+https://www.casabatllo.es/
+64
+05 Casa Batlló.jpg
+passeig de Gràcia
+Trencadís
+place/Casa-Batllo
++6
+Category:Casa Batlló
+385
+Fachada y sección Casa Batlló (1904).jpg
+brick
+Montjuïc stone
+ceramic glaze
+forging
++0.46
++1.02
+21164274
++1900-00-00T00:00:00Z
+Category:Interior of Casa Batlló
+Passeig de Gràcia, 43
+Colegiata de Cervatos
+/m/0qfs7t9
+Colegiata de Cervatos.jpg
+Campoo de Enmedio
+Cervatos
+RI-51-0000068
+Roman Catholic Diocese of Santander
+Peter
+award received
+Ringgold ID
+GRID ID
+ROR ID
+Hospital de la Santa Creu i Sant Pau
+Hospital Sant Pau, main facade.jpg
+/m/0qllp
+Modern Movement
+modernism
+Art Nouveau architecture
+Palau de la Música Catalana and Hospital de Sant Pau, Barcelona
+Horta-Guinardó
+Lluís Domènech i Montaner
+Pere Domènech i Roura
+153044735
+220036-3
+n79099450
+RI-51-0004278
+59-MH-EN
+0033019
+Creu de Sant Jordi
+Gold Medal of the Generalitat of Catalonia
+http://www.santpau.es/
+http://www.santpau.cat/
+https://www.santpaubarcelona.org/
+804-002
+804bis-002
++1905-00-00T00:00:00Z
+smithy
+stained glass
+63
+0000 0004 1768 8905
+0000 0001 2187 8072
+16689
+02-A006601996
+00180733n
+grid.413396.a
+7485
+143395203
+14491454j
+XX86346
+ADV11143022
+a10207806
+2801795740
+059n1d175
++6.74
++23.14
+Cathedral of Burgo de Osma
+Burgo de Osma-Ciudad de Osma
+/m/0czcj03
+co-cathedral
+El Burgo de Osma-E 0049.jpg
+Catedral del Burgo de Osma (Soria), Castilla, España.jpg
+Roman Catholic Diocese of Osma-Soria
+313174887
+nr94015979
+067733638
+4572238-9
+Catedral de la Asunción de El Burgo de Osma
+12750
+http://www.osma-soria.org/diocesis-catedral.php
+RI-51-0000918
+Catholic Church
++1784-00-00T00:00:00Z
+Category:Interior of the Cathedral of Burgo de Osma
+Soria
+Church of San Juan de Rabanera, Soria
+SanJuanRabanera-Abside.jpg
+RI-51-0000337
+13891
+839
+Romanesque art
+Category:Interior of the Church of San Juan de Rabanera, Soria
+Church of Nuestra Señora de la Concepción, Santa Cruz de Tenerife
+Santa Cruz de Tenerife
+/m/0dgm_sb
+2519314
+154765119
+Colonial architecture
+Tenerife2005 062.jpg
+RI-51-0004924-00001
++1500-00-00T00:00:00Z
+n80037480
+https://parroquiaconcepcionsantacruz.blogspot.com/
+Immaculate Conception of Mary
+Category:Interior of the Church of Nuestra Señora de la Concepción, Santa Cruz de Tenerife
+Cathedral of Cádiz
+Cádiz
+/m/04g0x93
+PanCadiz02copia.jpg
+RI-51-0000493
+Roman Catholic Diocese of Cadiz y Ceuta
+130842907
+238781407
+n93109697
+http://www.catedraldecadiz.com/
++1722-00-00T00:00:00Z
+002127121
+XX86252
+4659648-3
+Category:Interior of the Cathedral of Cádiz
+length
+Church of Santa Cristina de Lena
+/m/063_7c_
+Monuments of Oviedo and the Kingdom of the Asturias
+hermitage
+158635110
+Santa Cristina de Lena.jpg
+312-003
+RI-51-0000050
+Lena
+pre-Romanesque art
++0852-00-00T00:00:00Z
+La Pola
+7611297-4
+Roman Catholic Archdiocese of Oviedo
+no2005093750
+Christina of Bolsena
+founded by
+Mosteiro de Santa María de Sobrado dos Monxes
+http://www.monasteriodesobrado.org
+monastery
+Monasterio de Santa María de Sobrado dos Monxes (187457316).jpg
+Mosteirodesobrado2010.jpg
++1101-01-17T00:00:00Z
+nr99002675
+669bis-016
++6.71
++37.16
+Routes of Santiago de Compostela: Camino Francés and Routes of Northern Spain
+RI-51-0000547
+Cistercian architecture
+Hermenegildo Alóitez
+156398838
+Pleiades ID
+WOEID
+product or material produced
+Who's on First ID
+Las Médulas
+Panorámica de Las Médulas.jpg
+803
+/m/0f9dvq
+mine
+Borrenes
+Carucedo
+3118898
+22234
+234339764
+236536
+764767
+2130077
+RI-51-0000667
+gold
+Zone principal de la mina de oro de Las Médulas
+Estéiles de la Balouta
+Estéiles de Valdebría
+Estéiles de Yeres
+Category:Las Médulas
+1125993301
+floors below ground
+Casa Vicens
+Casa Vicens, Barcelona - panoramio (1).jpg
+/m/0422md
+Moorish Revival architecture
+residential building
+6457229
+RI-51-0003823
+52-MH-EN
+20003138
+320-004
+56
++1883-00-00T00:00:00Z
+00174789n
++3
++1
++1850
++0.12
++4.23
+13029
+Gràcia
+21343469
+Category:Interior of Casa Vicens
+Carrer de les Carolines, 18-24
+religious order
+Real Monasterio de Nuestra Señora de Guadalupe
+665
+/m/0d7y6v
+8335420
+art collection
+126662405
+168994203
+14650146c
+4373312-8
+n80005651
+07974222X
+Royal Monastery of Santa Maria de Guadalupe.jpg
+0000 0001 2206 1574
+500306944
+cultural object with outstanding universal significance
+Franciscans
+Guadalupe
+RI-51-0000024
+Real Monasterio de Santa María de Guadalupe
+http://www.monasterioguadalupe.com
+Category:Real Monasterio de Nuestra Señora de Guadalupe
+0031280
+place/Monastery-of-Guadalupe
+Category:Interior of the Real Monasterio de Nuestra Señora de Guadalupe
+lccn-n80005652
+number of elevators
+Bayterek
+Kazakhstan
+/m/0h6txj
+Norman Foster
+Bayterek by night 03.jpg
+Nur-Sultan
+Бәйтерек
+kk
++105
++2002-08-30T00:00:00Z
+20025300
++2
+Patrimonio Inmueble de Andalucía ID
+Castle of Vélez-Blanco
+Vélez-Blanco
+bien en el Catálogo General del Patrimonio Histórico Andaluz
+236565052
+Castillo Vélez-Blanco.JPG
+RI-51-0000380
++1506-00-00T00:00:00Z
+Renaissance
+i20462
+occupant
+Castle of Cuéllar
+Cuéllar
+/m/04zx1rq
+tuberculosis sanatorium
+Hanequin de Bruselas
+CastCuellar.jpg
+316735355
+RI-51-0000871
+Vista nocturna del Castillo de Cuéllar..jpg
+Walls and Castle of Cuéllar
+Category:Interior of the Castle of Cuéllar
+Juan Miguel Osorio y Bertrán de Lis
+Ministry of Education, Social Policy and Sports (Spain, 2008-2009)
+Church of Nuestra Señora de la Asunción, Valdemoro
+Valdemoro (Madrid) 02.jpg
+Iglesia y campanario en Valdemoro.jpg
+Catholic parish church
+Valdemoro
+RI-51-0004445
+Baroque
++1764-00-00T00:00:00Z
+El Ejido
+Charles III of Spain
+Guardias Viejas.jpg
+10300582
+Castillo de Guardias Viejas, El Ejido
+RI-51-0007475
+Igrexa de Santo Antoniño de Toques
+Iglesia de San Antoniño de Toques1.jpg
+Igrexa de Santo Antolín de Toques
+Toques
++0901-01-17T00:00:00Z
+Roman Catholic Diocese of Lugo
+RI-51-0008302
+Category:Igrexa de Santo Antolín de Toques
+Antoninus of Pamiers
+Castle of Santa Àgueda
+/m/09_xgl
+Ferreries
+Menorca
+Balearic Islands
+Ruins of Santa Àgueda.jpg
+316736360
+RI-51-0008553
++264
+Catálogo de Patrimonio Cultural de Castilla-La Mancha ID
+Fachadanorteiglesiaromancos.jpg
+RI-51-0007005
+Brihuega
++1401-01-17T00:00:00Z
+Isabelline
+Roman Catholic Diocese of Sigüenza-Guadalajara
+Romancos
+Iglesia de Nuestra Señora de la Asunción (Romancos)
+iglesia-parroquial-de-romancos
+crosses
+number of spans
+Alconétar Bridge
+/m/02qcr3g
+deck arch bridge
+Roman bridge
+bridge
+Garrovillas de Alconétar
+Tagus river
+25496
++18
+20035850
+Puente de Alconétar
+Puente de Alconétar, Cáceres Province, Spain. Pic 01.jpg
+RI-51-0000486
+257460
+Category:Alconétar Bridge
++290
+316431757
+Church of San Nicolás, Soria
+Palacio de los Ríos y Salcedo-Soria - P7234486.jpg
+RI-51-0001431
+14020
+Saint Nicholas
+Castillo de Almansa
+Almansa
+/m/0h3mt6j
+7779013
+316732718
+CastilloAlmansa4.jpg
+RI-51-0000190
+Vista nocturna del Castillo de Almansa.jpg
+Castelo de Almansa
+castillo-de-almansa
+Castillo de Jimena de la Frontera
+Jimena de la Frontera
+316736344
+Castillo Jimena6.JPG
+RI-51-0000500
+Castillo de Jimena de la Frontera Plano.png
+Wolfram Language entity code
+Castle of La Calahorra
+La Calahorra
+131502068
+Castillo de la Calahorra01.jpg
+RI-51-0000225
+Entity["Castle", "CastilloDeCalahorra"]
+n94016008
+Cambodia
+Phnom Penh
+Vann Molyvann
+Sangkat Tonle Basak, Phnom Penh 12301, Cambodia - panoramio (7).jpg
++1958-00-00T00:00:00Z
+rock
+Santa María de Lebeña
+/m/0qfp75w
+parish church
+RI-51-0000064
+Cillorigo de Liébana
+Santa María de Lebeña.jpg
+Pre-Romanesque architecture
+Planta SMdL.jpg
+Monument of the Republic, Istanbul
+Istanbul
+/m/060vtj
+Turkey
+Cumhuriyet Aniti.JPG
+Pietro Canonica
++1928-08-08T00:00:00Z
+Taksim Cumhuriyet Anıtı
+tr
+Taksim Anıtı
+official name
+phone number
+logo image
+CiNii author ID (books)
+short name
+activity policy in this place
+SHARE Catalogue author ID
+office held by head of the organization
+Museo Arqueológico Nacional de España
+Palacio de Biblioteca y Museos Nacionales - Museo Arqueológico Nacional
+Palacio de Biblioteca y Museos Nacionales
+Casino de la Reina, Madrid
+150046107
+0000 0001 2183 6382
+/m/0fjdmh
+http://man.mcu.es/
+Museo Arqueológico Nacional de España 01.jpg
+archaeological museum
++1867-03-20T00:00:00Z
+6946843
+Category:Museo Arqueológico Nacional de España
+Museo Arqueológico Nacional
++34-915-77-79-12
+Museo Arqueológico Nacional logo.svg
+Andrés Carretero Pérez
+MANArqueologico
+ADV10115580
+XX127435
+pna2016908509
+RI-51-0001373
+Isabella II of Spain
+DA13921784
+000096570
+2119261
+336269
+02-A005440102
+MAN
+no flash
+grid.469480.7
+077373405
+120201829
+n79139432
+1016874-6
+500302376
+36546084
+398794
+museo-arqueologico-nacional
+03gmjg433
+director of the National Archaeological Museum of Spain
+Calle Serrano
+Zaragoza monument ID
+SIPCA code
+Great Aragonese Encyclopedia ID
+Palacio de la Aljafería (Zaragoza)
+Zaragoza
+Aljafería2.JPG
+/m/026yp2b
+palace
+parliament building
+Mudéjar architecture of Aragon
+Banu Hud
+Category:Palacio de la Aljafería
+135877161
+244280002
+0002683
+6055703-5
+4514167-8
+050546945
+114155089
+000585237
+000594206
+XX104467
+7
+Aragonese Corts
+1-INM-ZAR-017-297-629
+Fachada Aljafería nocturna.jpg
+Palacio del universo
+pl
+378-008
+Patio de Santa Isabel
+Torre del Trovador
+RI-51-0001033
+678
+Parque de la Aljafería
+Calle los Diputados
+11695
+Entity["Castle", "PalacioDeAljaferia"]
+6793634
+Cathedral of Ourense
+Ourense
+/m/0wdvv3j
+Cabeceira da catedral de Ourense.jpg
+147929516
+132665820
+146942843
+Roman Catholic Diocese of Ourense
+http://catedralourense.com/
+n91120839
+no2005110737
+n98073374
+101031556
+ADV12548544
+RI-51-0000771
++1160-00-00T00:00:00Z
+4814021-1
+Martin of Tours
+Category:Interior of the Cathedral of Ourense
+Cathedral of Santa Ana
+Las Palmas de Gran Canaria
+/m/0wy_t2w
+cathedral
+Saint Anne
+Catedral de santa ana 03.JPG
+Roman Catholic Diocese of Canarias
+RI-51-0003939
+267044683
+no2007106971
+XX235147
+1076340199
+Category:Interior of the Cathedral of Santa Ana
+Cathedral of Ávila
+Ávila
+/m/02qt7cx
+4576260-0
+1087198461
+Roman Catholic Diocese of Ávila
+http://www.catedralavila.com
+Avila Catedral PM 73576 E.jpg
+RI-51-0000138
+135549752
+0000 0001 2163 1408
+ADV11711813
+n81133961
+125273312
+12546274p
+a11206068
+XX97531
+kn20050510010
+264
+Avila - Catedral, exteriores 09.jpg
++1172-00-00T00:00:00Z
+Category:Cathedral of Ávila
+Old Town of Ávila with its Extra-Muros Churches
+salvation
+Category:Interior of the Cathedral of Ávila
+lccn-n81133961
+operator
+Mehrangarh Fort
+Jodhpur
+/m/05c_lm
+India
+Mehrangarh Fort.jpg
+1072420201
+316494858
+place/Mehrangarh-Fort
+Category:Mehrangarh Fort
+Gaj Singh
+Category:Interior of the Mehrangarh Fort
+MusicBrainz place ID
+Segovia Cathedral at Day.jpg
+Cathedral of Segovia
+/m/04041gs
+Rodrigo Gil de Hontañón
+6452819
+4295942-1
+5076755-0
+Flamboyant
+20007899
+Roman Catholic Diocese of Segovia
+151939123
+144969195
+0000 0001 0672 8869
+n81124924
+XX85169
+ADV12639139
+ADV12639145
+125429274
+RI-51-0000862
+11823
+https://catedralsegovia.wordpress.com/
+http://catedralsegovia.es/es
+Catedral de Segovia.jpg
+Category:Cathedral of Segovia
+Catedral de Segovia
+002133529
+36562756
++1525-00-00T00:00:00Z
+place/Segovia-cathedral
+Category:Burials at Segovia Cathedral
+11615
+94e87701-8fb4-4ae7-8145-c986eb74e1bb
++999
+Category:Interior of the Cathedral of Segovia
+Monastery of Santa María de Monfero
+/m/0fkmf5
+Monfero767.jpg
+Monasterio de Monfero 1.JPG
+Monfero
+San Fiz de Monfero
+RI-51-0000545
+monasterio-de-santa-maria-de-monfero
+Cathedral of Oviedo
+Oviedo
+/m/077263
+Cathedral of San Salvador and Cámara Santa
+4381809-2
+Oviedo-Catedral.JPG
+http://catedraldeoviedo.com/
+130193680
+ADV10013476
+n81047049
+050599747
+kn20140113003
+Catedral Oviedo Noche.jpg
+002105817
+DA1015256X
++0701-01-17T00:00:00Z
+RI-51-0000785
+Category:Cathedral of Oviedo
+Catedral Metropolitana Basílica de San Salvador
++232
+Church of Santa María de Bendones
+/m/064ng8b
+Frontal Santa María de Bendones.JPG
+RI-51-0001265
+7607417-1
+238162859
+Church of San Pedro de Nora
+/m/064mxmq
+San Pedro de Nora - 1 - 25-12-10.jpg
+Les Regueres
+RI-51-0000798
+7616772-0
+236154359
+DIR3 ID
+National Museum of Sculpture of Spain
+http://museoescultura.mcu.es
+/m/03h4dz7
++1842-01-01T00:00:00Z
+Colegio de San Gregorio (Valladolid). Fachada.jpg
+Valladolid
++145606
+Category:National Museum of Sculpture of Spain
+093405057
+139964983
+500312197
+169277216
+265189764
+126137432
+316425267
+0000 0001 2206 4951
+0000 0001 2108 0861
+n87129578
+no2009192657
+Museo Nacional de Escultura en España
+129735
+5206410-4
+1086893190
+16055992-3
+a11487422
+a11487458
+XX254110
+XX4813573
+ADV12598237
+ADV12598242
+ADV12598241
+DA13092974
+12317190x
+Colegio de San Gregorio
+Palacio de Villena (Valladolid)
+RI-51-0001422
+EA0019753
+Calle Cadenas de San Gregorio, 1-2, 47011 Valladolid
+museo-nacional-de-escultura
+María Bolaños
+Cathedral of Málaga
+Malaga
+/m/09gm5lb
+6452796
+4509353-2
+Category:Cathedral of Málaga
+Diego Siloe
+Roman Catholic Diocese of Málaga
+Cathedral of Málaga, 2016.jpg
+131450110
+ADV12517615
+n88029430
+075954311
+XX86900
+http://www.diocesismalaga.es/index.php?mod=catedral
+http://malagacatedral.com/
++1528-00-00T00:00:00Z
+place/Malaga-Cathedral
+RI-51-0000728
+main subject
+facet of
+The Motherland Calls
+Russia
+/m/02vx1cg
+concrete
++1959-01-01T00:00:00Z
+Volgograd and the Motherland statue.JPG
+Yevgeny Viktorovich Vuchetich
+Nikolai Nikitin
+Volgograd
+woman
+sword
+Battle of Stalingrad
+Soviet art
+The-Motherland-Calls
+colossal statue
+cultural heritage site in Russia
++85
+00372440n
+topic/The-Motherland-Calls
+Mamayev Kurgan
+Collegiate of Santa Juliana, Santillana del Mar
+/m/0qfrl0z
+Colegiata de Santillana del Mar
+ColegiataSantillana-1.jpg
+RI-51-0000057
+collegiate church
+Category:Collegiate of Santa Juliana, Santillana del Mar
+669bis-012
++0.25
++0.14
+video
+Cathedral of Logroño
+Logroño
+/m/0jt5l3v
+Façade of Santa María de la Redonda in Logroño.jpg
+RI-51-0000701
+Roman Catholic Diocese of Calahorra y La Calzada-Logroño
+http://www.laredonda.org/
+236131334
+n79064564
+4722974-3
+12253697d
+La Redonda Cathedral Tower Bells on Palm Sunday 2018 2.webm
+Category:Interior of the Cathedral of Logroño
+ID of Inventory of the Archaeological and Paleontological Heritage of Catalonia
+Monestir de Sant Pere de Casserres
+6457391
+Les Masies de Roda
+Sant Pere Casserres1.JPG
+RI-51-0000441
+162
++1001-01-17T00:00:00Z
+7727327-8
+3714849
+n2006054725
+152-MH
+11808
+0015836
+139770602
+Descent of the Ganges
+Mahabalipuram temples
+Descent of the Ganges 01.jpg
+ASI Monument ID
+N-AP-78
+mosque
+Hyderabad district
+Charminar
+Charminar-Pride of Hyderabad.jpg
+/m/03nflp
+Monument of National Importance
+Islamic architecture
+Hyderabad
+Charminar-Hyderabad-landmark
+topic/Charminar
+Muhammad Quli Qutb Shah
+Category:Interior of Charminar
+granite
+Guadalajara
+/m/0j7l3r9
+Concatedral de Santa María de Guadalajara
+Concatedral de Santa María de Guadalajara.jpg
+Co-cathedral of Saint Mary, Guadalajara
+RI-51-0001110
+300997012
+no2013055828
+Co-cathedral of Saint Mary (Guadalajara)
+Mudéjar style
+Category:Co-cathedral of Saint Mary, Guadalajara
+iglesia-de-santa-maria-la-mayor-de-guadalajara
+BIC of the Canary Islands ID
+/m/0kvgx5j
+Francisco Santa Cruz 06.jpg
+Canary Islands
+http://www.parroquiasanfrancisco.net/parroquia.htm
+RI-51-0008731
+Iglesia de San Francisco de Asís, Santa Cruz de Tenerife
+Church of San Francisco de Asís (Santa Cruz de Tenerife)
+Category:Iglesia de San Francisco de Asís, Santa Cruz de Tenerife‎
+346
+Francis of Assisi
++1680-00-00T00:00:00Z
+Category:Interior of the Iglesia de San Francisco de Asís, Santa Cruz de Tenerife
+Collegiate of San Pedro, Teverga
+San Pedro de Teverga 1.jpg
+Teverga
+RI-51-0000805
+7645587-7
+Church of San Tirso, Oviedo
+San Tirso de Oviedo 1.jpg
+Tioda
+Asturian architecture
+RI-51-0000788
+246999306
+7616740-9
+Category:Interior of the Church of San Tirso, Oviedo
+http://www.iglesiadeasturias.org
+Stepwell Atlas ID
+Chand Baori
+/m/04gncgp
+Abhaneri-Chand Baori-16-Stufenbrunnen-2018-gje.jpg
+Abhaneri
+IN7
+located in time zone
+Catedral AB.jpg
+Albacete
+Roman Catholic Diocese of Albacete
+RI-51-0004621
+UTC+01:00
+Cathedral of Albacete
+141886636
+n79140380
+1129477975
+Catedral de Albacete, San Juan AAE4385.jpg
+iglesia-catedral-de-san-juan-bautista
++1949-00-00T00:00:00Z
+Category:Interior of the Cathedral of Albacete
+Almería
+Roman Catholic Diocese of Almería
+Almeria cathedral.JPG
+Cathedral of Almería
+132684898
+n95003031
+XX96544
+http://www.catedralalmeria.com/
+RI-51-0000374
+Category:Interior of the Cathedral of Almería
+Murcia Cathedral
+Murcia
+/m/0772z5
+Murcia Cathedral.jpg
+Roman Catholic Diocese of Cartagena
+154906788
+n91072261
+XX132293
+ADV12454070
+ADV12454071
++1291-00-00T00:00:00Z
+002128020
+RI-51-0000743
+Category:Murcia Cathedral
+virgin birth of Jesus
+Catedral Nueva de Salamanca
+Salamanca
+/m/09vqfv
+4307225-2
+Roman Catholic Diocese of Salamanca
+Catedral Nueva de Salananca vista desde La Clerecía.png
+http://catedralsalamanca.vocces.com/
+246234352
+n80145679
+9598
+Cimborrio de la Catedral Nueva de Salamanca de noche.jpg
+RI-51-0000054
++1513-00-00T00:00:00Z
+Category:Catedral Nueva de Salamanca
+Planta de la Catedral Nueva de Salamanca.jpg
+Cathedral of Vic
+Vic
+/m/0kv1hql
+7694828-6
+Catedral de Sant Pere de Vic - 001.jpg
+Roman Catholic Diocese of Vic
+RI-51-0000432
+262
+http://www.bisbatvic.com/catedral.htm
+312735984
+0000 0001 1943 5627
+n80028459
+002123919
+a11570295
+119994914
++0501-01-17T00:00:00Z
+place/Vic-Cathedral
+CatedralVic-Planta.jpg
+237-MH
+11862
+0237856
+Category:Interior of the Cathedral of Vic
+/m/0pd9xxn
+El Fadrí
+Castellón de la Plana.Torre Campanario El Fadrí.jpg
+bell tower
+Castelló de la Plana
+RI-51-0012154
+Valencian Gothic
+12.05.040-018
++60
+Pazo de Meirás
+/m/0pd8g38
+Pazo de Meirás 05.jpg
+Sada
+RI-51-0000265
+sh2018003186
+Romanticism
+6152152744538127850001
+viaf-6152152744538127850001
+Church of San Jorge, A Coruña
+Iglesia de San Jorge, La Coruña, España, 2015-09-25, DD 42.jpg
+RI-51-0004178
+Saint George
+Category:Interior of the Church of San Jorge, A Coruña
+Church of Santiago, A Coruña
+/m/0pd9ctr
+2165-Igrexa de Santiago na Cidade Vella da Coruña.jpg
+RI-51-0003885
+Category:Interior of the Church of Santiago, A Coruña
+Palacio de San Telmo
+Seville
+/m/0bmbblj
+7603014
+Palacio de San Telmo, Sevilla, España, 2015-12-06, DD 74.JPG
+124345894
+500308944
+XX131162
+4605990-8
+RI-51-0003794
+http://www.juntadeandalucia.es/organismos/presidenciayadministracionlocal/areas/san-telmo.html
++1682-00-00T00:00:00Z
+Category:Interior of the Palacio de San Telmo
+viaf-124345894
+Convento de las Dueñas, Salamanca
+/m/0r4jq22
+convent
+Dueñas Salamanca - 2011.JPG
+Dominican Order
+9757
++1419-00-00T00:00:00Z
+RI-51-0000194
+Category:Interior of Convento de las Dueñas, Salamanca
+Alcázar de Jerez de la Frontera
+People of Germany
+Jerez de la Frontera
+/m/0bs179d
+alcázar
+Alcázar, Jerez de la Frontera, España, 2015-12-07, DD 74-79 PAN.JPG
+RI-51-0000494
+i6657
+RI-51-0000039
+Cangues d'Onís
+Santuario de Covadonga santa cueva.jpg
+Santa Cueva de Covadonga
+Covadonga
+Basilica of Covadonga
+Monastery of San Pedro, Covadonga
+Convento de San Domingos de Bonaval
+San domingos de bonaval fachada principal.jpg
+RI-51-0000126
+9786151965396200470005
+viaf-9786151965396200470005
+Cogolludo Cathedral tower1.jpg
+RI-51-0009106
+Cogolludo
+Saint Mary's Church, Cogolludo
+iglesia-de-santa-maria-de-cogolludo
+maintained by
+Museo Casa de Cervantes (Valladolid)
+Casacervantes academia artes01 lou.jpg
+167484258
+0000 0001 2115 7259
+500312187
+n95061285
+121415184
+124050883
+http://museocasacervantes.mcu.es/
+historic house museum
+15649
++1862-00-00T00:00:00Z
+Miguel de Cervantes
+Ministry of Culture
+RI-51-0001259
+1452
+EA0019745
+museo-casa-de-cervantes
+Category:Interior of the Museo Casa de Cervantes (Valladolid)
+Capilla de Santa Eugenia de Sobrecueva - 03.jpg
+Abamia
+RI-51-0007225
+Memorial to the Victims of Acts of Terror (Jerusalem)
+Israel
+אנדרטת חללי הטרור - הר הרצל 6.jpg
++1998-00-00T00:00:00Z
+Jerusalem
+Concatedral de San Pedro de Soria
+/m/0jt2zwb
+San Pedrosoria.jpg
+143161141
+n97037103
+XX138191
+4599503-5
+RI-51-0004390
+13867
+Category:Interior of the Concatedral de San Pedro de Soria
+Astorga Cathedral
+Astorga
+/m/0cnzmgv
+6452815
+Roman Catholic Diocese of Astorga
+145372555
+Cathedral of Astorga
+n88663709
+060947012
+Astorga - Catedral, fachada.jpg
+RI-51-0000663
+4282
+http://www.catedralastorga.com/
+Juan de Colonia
++1471-00-00T00:00:00Z
+Cathedral of Palencia
+Palencia
+/m/04glq_9
+6452814
+CatedralDePalencia20100118223855SAM 2600.jpg
+Roman Catholic Diocese of Palencia
+http://catedraldepalencia.org/
+137228526
+173494768
+142585258
+ADV10190319
+XX188534
+n82077913
+no97056555
+001697791
+029536103
+121142178
+Catedral de Palencia
+806384-9
+7583
+RI-51-0000340
+Category:Cathedral of Palencia
+Conjunto Histórico de la Ciudad de Palencia
+Cathedral of Santa María, Vitoria-Gasteiz (Old Cathedral)
+/m/0h3nb13
+Vitoria-Gasteiz - Vieille Cathédrale.jpg
+Roman Catholic Diocese of Vitoria
+http://www.catedralvitoria.eus/
+208084888
+4671938-6
+071013245
+nr2003013463
+RI-51-0000359
+Vitoria-Gasteiz
+Cathedral of María Inmaculada of Vitoria
+669bis-018
++2.69
+Camino del Interior
+http://www.euskadi.eus/app/ondarea/eraikita-ondarea/santa-maria-katedrala/katedrala/vitoria-gasteiz/vitoria-gasteiz/casco-historico/fichaconsulta/28110
+http://www.euskadi.eus/app/ondarea/patrimonio-construido/catedral-de-santa-maria/catedral/vitoria-gasteiz/vitoria-gasteiz/casco-historico/fichaconsulta/28110
+Category:Interior of the Cathedral of Santa María, Vitoria-Gasteiz (Old Cathedral)
+Badajoz Cathedral
+Badajoz
+/m/0fph8f8
+6452850
+Badajoz, Catedral 122-2.jpg
+Roman Catholic Archdiocese of Mérida-Badajoz
+167591386
+XX94281
+nr89009181
++1230-00-00T00:00:00Z
+http://www.meridabadajoz.net/archidiocesis/catedral-de-badajoz/
+RI-51-0000394
+John the Baptist
+Category:Interior of the Badajoz Cathedral
+Calahorra Cathedral
+Calahorra
+Calahorra - Catedral 06.jpg
+RI-51-0000700
+148064904
+0000 0000 9969 9667
+ko2007402451
+XX156362
+n87942162
+http://www.catedralcalahorra.org/
+Cathedral of Ceuta
+Ceuta
+/m/05b_qsk
+Catedral de Ceuta, Ceuta, España, 2015-12-10, DD 04.JPG
+neoclassicism
+RI-51-0012179
++1686-00-00T00:00:00Z
+n2011021746
+170425961
+Category:Interior of the Cathedral of Ceuta
+Ciudad Real
+/m/0wyt9cd
+Ciudad Real - Catedral de Nuestra Señora del Prado 1.jpg
+Roman Catholic Diocese of Ciudad Real
+Cathedral of Ciudad Real
+RI-51-0000514
+catedral-de-ciudad-real
+Catedral de Ciudad Real
+Planta Catedral Ciudad Real.png
+Category:Interior of the Cathedral of Ciudad Real
+Cathedral of Ciudad Rodrigo
+Ciudad Rodrigo
+/m/0qfvnwf
+Catedral3.JPG
+Roman Catholic Diocese of Ciudad Rodrigo
+138719657
+no2003100672
+7567471-3
+RI-51-0000059
+8991
+1504
++1200-00-00T00:00:00Z
+http://catedralciudadrodrigo.com/
+002345492
+Ciudad Rodrigo altarpiece
+Category:Interior of the Cathedral of Ciudad Rodrigo
+Cathedral of Getafe
+Getafe
+/m/0h3mcjn
+Alonso de Covarrubias
+Roman Catholic Diocese of Getafe
+Magdalena.jpg
+RI-51-0001260
+https://www.diocesisgetafe.es/index.php/diocesis/catedral
++1400-00-00T00:00:00Z
+263632338
+108076091
+no2011148349
+Plano de la Catedral de Getafe.svg
+Category:Interior of the Cathedral of Getafe
+Cathedral of Guadix
+Guadix
+/m/0bmgwdd
+6452840
+Roman Catholic Diocese of Guadix-Baza
+Cathedral - Guadix - Spain - 20110808.jpg
+http://www.catedraldeguadix.es/
+146807935
+a12308572
+n2008017399
+RI-51-0000595
+8988
++1489-00-00T00:00:00Z
+Category:Interior of the Cathedral of Guadix
+/m/0bs6pn5
+JerezDeLaFrontera--DSC01127.JPG
+6452837
+Cathedral of Jerez de la Frontera
+Roman Catholic Diocese of Jerez de la Frontera
+http://www.catedraldejerez.es/
+128832270
+XX120256
+n80019831
+RI-51-0000498
+Catedral de Jerez de la Frontera by night.JPG
+Jesus Christ
+Category:Interior of the Cathedral of Jerez de la Frontera
+Huesca Cathedral
+Huesca
+/m/0dlnr49
+Roman Catholic Diocese of Huesca
+Catedral de Santa María, en Huesca.jpg
+Catedral de Huesca
+142328370
+nr89005551
+RI-51-0000626
+20045293
+7-INM-HUE-006-125-008
++1294-00-00T00:00:00Z
+http://www.diocesisdehuesca.org/directorio/catedral/historia.htm
+000029298
+df181dfe-e8ba-42e6-815d-513cd0646877
+11881
+ko2018985487
+Cathedral of Lugo
+Lugo
+/m/0bs47s_
+6452797
+Fachada da Catedral de Lugo.jpg
+Catedral de Santa María de Lugo
+136226699
+245425230
+n99029869
+128715219
+http://www.diocesisdelugo.org/diocesis/catedral/
+4719738-9
+RI-51-0000708
++1129-00-00T00:00:00Z
+669bis-007
++2.6
+Category:Interior of the Cathedral of Lugo
+Santo Domingo de la Calzada
+/m/03d7_15
+6452854
+Santo Domingo de la Calzada 2019 fachadas.jpg
+Con-cathedral of Santo Domingo de la Calzada
+http://catedralsantodomingo.com/
++1100-00-00T00:00:00Z
+149609390
+0000 0001 2182 5106
+n81006942
+XX96640
+000029301
+RI-51-0000702
+Sto Domingo de la Calzada (Logroño) Cat Salvador 1 Planta.png
+Segorbe Cathedral
+Segorbe
+/m/0gtsw15
+6452832
+Roman Catholic Diocese of Segorbe-Castellón
+Roman Catholic Diocese of Segorbe
+Catedral segorbe.jpg
+RI-51-0009270
+http://www.catedraldesegorbe.es/
+136267913
+243909781
+n2008013838
+7685535-1
+12.07.104-008
+0063265
+Category:Interior of Segorbe Cathedral
++365
+GCatholic church ID
+winter view
+Sigüenza Cathedral
+Sigüenza
+/m/0cc4_r0
+6452828
+Catedral2-rectangular.jpg
+RI-51-0000599
+Catedral & Noche & Nieve - panoramio.jpg
+652
+http://www.lacatedraldesiguenza.com/es/sample-page/
+152872362
+nr88006865
+Cathedral of Santa María de Sigüenza
++1144-00-00T00:00:00Z
+Cateral ^ Nieve - panoramio.jpg
+catedral-de-siguenza
+Category:Interior of Sigüenza Cathedral
+Cathedral of Tortosa
+Tortosa
+/m/0kvgwnb
+RI-51-0000923
+449 Catedral de Tortosa, façana barroca inacabada.JPG
+20036476
+251
+0067023
+Roman Catholic Diocese of Tortosa
++1347-00-00T00:00:00Z
+http://bisbattortosa.org/es/la-catedral/
+140908505
+a11841515
+ADV10924415
+n2001004247
+XX107983
+226-MH
+6727
+Catedral tortosa224.jpg
+Category:Interior of the Cathedral of Tortosa
+Cathedral of Zamora
+Zamora
+/m/0272prq
+Catedra de Zamora panoramica.JPG
+Romanesque architecture in Spain
+Roman Catholic Diocese of Zamora in Spain
+https://catedraldezamora.wordpress.com/
+124365334
+XX96671
+n82222244
+ADV10279852
+17286
+RI-51-0000060
+59dad8cc-7870-4983-9f86-c9d8d47c45c5
+Category:Cathedral of Zamora
+Category:Interior of the Cathedral of Zamora
+lccn-n82222244
+Luis de Lucena Chapel
+Capilla de Luis de Lucena, Guadalajara.jpg
+RI-51-0000133
+chapel
+1950
+capilla-lucenas-o-urbinas
+no2006130786
+127795279
+Medina del Campo
+/m/05zhqxk
+Castillo de la Mota
+Medinapano03.jpg
+http://www.castillodelamota.es/
+Junta of Castile and León
+247406213
+XX96093
+4777966-4
+14768
+10296316
+RI-51-0000084
+01567860n
+Entity["Castle", "CastilloDeLaMota"]
+Category:Interior of the Castillo de la Mota
+Catedral Vieja de Salamanca
+/m/0b6ltx4
+4307222-7
+Torre del Gallo, Catedral Vieja de Salamanca.jpg
+069360170
+245126855
+Category:Catedral Vieja de Salamanca
+RI-51-0000053
+9618
+20536
+Planta de la Catedral Vieja de Salamanca.jpg
+San Esteban de Aramil.jpg
+Siero
+Church of San Esteban de Aramil
+RI-51-0001278
+Aramil (Siero)
+Stephen
+Royal Palace of La Almudaina
+Palma
+/m/04f0s1t
+James II of Majorca
+RI-51-0000412
+0002868
+Palma Mallorca 2008 06.JPG
+245425627
+XX160740
+000594360
+4722646-8
+135773940
+053483855
+http://www.patrimonionacional.es/real-sitio/palacios/6254
+214
+2424202
+Category:Interior of the Royal Palace of La Almudaina
+Palacio Campo Real Jerez02.JPG
+i1334
+RI-51-0006970
+Palacio de Campo Real
+Flanders Arts Institute venue ID
+Alhóndiga Bilbao (Azkuna Zentroa)
+Ricardo Bastida
+Philippe Starck
+Al 4.jpg
+architectural structure
+https://www.azkunazentroa.eus
+140406
++1909-00-00T00:00:00Z
+RI-51-0002364
+no2017004092
+http://www.euskadi.eus/app/ondarea/eraikita-ondarea/bilboko-udal---alondegia/alondegia/bilbao/indautxu/fichaconsulta/37620
+http://www.euskadi.eus/app/ondarea/patrimonio-construido/alhondiga-municipal-de-bilbao/alhondiga/bilbao/indautxu/fichaconsulta/37620
+renovation
+Category:Interior of Alhóndiga Bilbao (Azkuna Zentroa)
+271430693
+commemorates
+Turkmenistan
+Independence Monument, Ashgabat
+/m/05z_035
+observation tower
+Ashgabat
+UTC+05:00
+Independence Day
+reinforced concrete
+steel
++118
+observation deck
+Garaşsyzlyk binasy
+tk
+Official visit of the President to Turkmenistan 04.jpg
+Igrexa de Santa María de Cambre
+Cambre
+Igrexa de Santa María en Cambre. Galiza.jpg
+RI-51-0000541
+Category:Igrexa de Santa María de Cambre
+n2001001031
+128029729
+/m/03d0c9w
+Mosteiro de San Xoán de Caaveiro
+Caaveiro Monastery.jpg
+RI-51-0004195
+Category:Mosteiro de San Xoán de Caaveiro
+n2016022100
+12146332963818732586
+lccn-n2016022100
+Samadhi of Ranjit Singh
+Samadhi of Raja Ranjit Singh.JPG
+Pakistan
+Buland Darwaza
+Buland Darwaza Backside.JPG
+place/Buland-Darwaza
+Museo de Albacete
+museum
+http://www.patrimoniohistoricoclm.es/museo-de-albacete/
+130829850
+55145424517586831191
+0000 0001 2157 9670
+5062378-3
+16312325-1
+081483929
+096700262
+500304504
+n86844156
+XX127881
+museoab
+Museo de Albacete.JPG
+RI-51-0001301
++1927-06-27T00:00:00Z
+Regional Government of Castile-La Mancha
+museo-de-albacete
+Rubí Sanz Gamo
+viaf-55145424517586831191
+Barabati fort.jpg
+Barabati fort at cuttack.jpg
+Barabati Fort
+N-OR-6
+Cuttack District
+YouTube video ID
+Pakistan Monument Islamabad
+Flag of Pakistan on National Monument.JPG
+Islamabad
++2007-03-23T00:00:00Z
+_yl139TrrBU
+/m/02rb63p
+Pakistan Monument Museum
+Church of San Anton, Bilbao
+Church of San Anton in Bilbao
+/m/0gh7k01
+San anton eliza.jpg
++1510-00-00T00:00:00Z
+RI-51-0005150
+Anthony the Great
+http://www.euskadi.eus/app/ondarea/eraikita-ondarea/san-anton-eliza/eliza/bilbao/casco-historico/fichaconsulta/29213
+http://www.euskadi.eus/app/ondarea/patrimonio-construido/iglesia-de-san-anton/iglesia/bilbao/casco-historico/fichaconsulta/29213
+Casco Viejo
+Camino del Norte
+Roman Catholic Diocese of Bilbao
+Planta iglesia San Anton de Bilbao.jpg
+Category:Interior of the Church of San Anton, Bilbao
+Church of San Miguel Arcángel, Vitoria-Gasteiz
+Vitoria - San Miguel 16.jpg
+RI-51-0005442
+Michael the Archangel
+http://www.euskadi.eus/app/ondarea/eraikita-ondarea/san-migel-goiangeruaren-eliza/eliza/vitoria-gasteiz/vitoria-gasteiz/casco-historico/fichaconsulta/28100
+http://www.euskadi.eus/app/ondarea/patrimonio-construido/iglesia-de-san-miguel-arcangel/iglesia/vitoria-gasteiz/vitoria-gasteiz/casco-historico/fichaconsulta/28100
+Category:Interior of the Church of San Miguel Arcángel, Vitoria-Gasteiz
+Church of Nuestra Señora de la Asunción, Elvillar
+Bilar.jpg
+RI-51-0005106
+Elvillar/Bilar
+http://www.euskadi.eus/app/ondarea/eraikita-ondarea/igokundeko-ama-birjinaren-eliza/eliza/elvillar-bilar/elvillar-bilar/fichaconsulta/27112
+http://www.euskadi.eus/app/ondarea/patrimonio-construido/iglesia-de-la-asuncion-de-nuestra-senora/iglesia/elvillar-bilar/elvillar-bilar/fichaconsulta/27112
+Grand Hotel de Palma
+/m/0c3_bs7
+RI-51-0004379
+GranHotelPalma.JPG
++1903-01-01T00:00:00Z
+Church of Nuestra Señora de Montserrat, Madrid
+/m/0h3nvhw
+Iglesia de Nuestra Señora de Montserrat (Madrid) 08.jpg
+Iglesia de Nuestra Señora de Montserrat (Madrid) 07.jpg
+F1.45
+Sebastián Herrera Barnuevo
+RI-51-0000136
+San Bernardo street
+Roman Catholic Archdiocese of Madrid
+Arriba españaaa
+Category:Interior of the Church of Nuestra Señora de Montserrat, Madrid
+Capella de Santa Àgata, Barcelona
+/m/0qfqflw
+Barcelona
+RI-51-0000005
+Capella de Santa Àgata.JPG
+25-MH
+Roman Catholic Archdiocese of Barcelona
+Catalan Gothic
+Gothic Quarter
+0000 0001 2228 9448
+29
+n2001013625
+Category:Interior of Capella de Santa Àgata, Barcelona
+152146073
+Pl. del Rei
+Agatha of Sicily
+Church of El Salvador, Getaria
+Getaria Gipuzkoa 2003 07 20.JPG
+RI-51-0000067
+Getaria
+Roman Catholic Diocese of San Sebastián
+http://www.euskadi.eus/app/ondarea/eraikita-ondarea/san-salbador-eliza/eliza/getaria/casco-historico/fichaconsulta/32925
+http://www.euskadi.eus/app/ondarea/patrimonio-construido/iglesia-de-san-salvador/iglesia/getaria/casco-historico/fichaconsulta/32925
+Category:Interior of the Church of El Salvador, Getaria
+Torre de Llanes
+Torre de Llanes.jpg
+RI-51-0000016
+Llanes
+Torreón de Llanes - ... y de noche.jpg
+Zamora Santa María Magdalena 661.jpg
+Church of Santa María Magdalena, Zamora
+RI-51-0000099
+17410
+Mary Magdalene
+Category:Interior of the Church of Santa María Magdalena, Zamora
+Church of Sancti Spiritus, Salamanca
+Salamanca - Iglesia de Sancti Spiritus 01.jpg
+Iglesia de Sancti Spiritus (Salamanca)
+196977260
+035249633
+13176725x
+no95017193
+4370406-2
+Holy Spirit
+RI-51-0000055
+9990
+381-004
++0.23
++16.2875
+Old City of Salamanca
+Category:Interior of the Church of Sancti Spiritus, Salamanca
+Castle of Tabernas
+Tabernas castell.jpg
+Tabernas
+i19644
+RI-51-0007523
+Iglesia de Santa María (Villanueva) 010.jpg
+RI-51-0004774
+Church of Santa María de Villanueva
+National Library of Greece ID
+Museo de Málaga
+Palacio de la Aduana, Málaga
+/m/09v1nq3
+Palacio de la Aduana, Málaga 01.JPG
+http://www.museosdeandalucia.es/culturaydeporte/museos/MMA/?lng=es
++1973-00-00T00:00:00Z
+133690434
+n78042820
+0000 0001 2369 4189
+ko2004238696
+a11527018
+XX128171
+110785002
+254394
+1893
+RI-51-0001385
+Category:Museo de Málaga
+/m/0vzt7t9
+Polimeks
++185
+Basílica Pontificia de San Miguel, Madrid
+place of worship
+Basílica of San Miguel.jpg
+F1.64
+Santiago Bonavía
+RI-51-0005004
+http://www.bsmiguel.es/
+503
++1745-00-00T00:00:00Z
+Category:Interior of the Basílica Pontificia de San Miguel, Madrid
+bullring
+RI-51-0007222
+Gijón
+El Bibio Bullring
+El Bibio bullring at night.jpg
++1888-00-00T00:00:00Z
+Plaza de Toros de El Bibio 3.jpg
+Ahar Cenotaphs.JPG
+Palacio Arzobispal de Alcalá de Henares
+20016510
+Palacio Arzobispal de Alcalá de Henares (RPS 12-2-2012) fachada principal.jpg
+Alcalá de Henares
+episcopal palace
+RI-51-0000727
++1209-00-00T00:00:00Z
+Rodrigo Jiménez de Rada
+Roman Catholic Diocese of Alcalá de Henares
+316732702
+4693430-3
+XX151369
+000595236
+10300392
+sh98001033
+Category:Interior of the Palacio Arzobispal de Alcalá de Henares
+real estate developer
+Iglesia de San Emeterio (Sietes) - 21b.jpg
+Villaviciosa
+RI-51-0009061
+Iglesia de San Emeterio (Sietes)
+Fernando Suárez del Canto
+Capilla de Santo Medero (Isongo) - 04.jpg
+RI-51-0007224
+Torija Castle
+Castillo torija.JPG
+RI-51-0000610
+Torija
+castillo-de-torija
+316732746
+Trebujena
+BIC-IMG 4025.JPG
+RI-51-0008795
+Castle of Trebujena
+Rock Art of the Mediterranean Basin on the Iberian Peninsula
+Cueva niño.PNG
+RI-51-0009648
+Ayna
+Cueva del Niño
+874-673
+RI-51-0005279
+Iglesia en Mejorada del Campo.jpg
+Mejorada del Campo
+Iglesia de la Natividad de Nuestra Señora, Mejorada del Campo
+Church of El Salvador, Carabias
+IglesiaSanSalvadorCarabias-rectangular.jpg
+RI-51-0001644
+Carabias
+Carabias (Guadalajara) Igl del Salvador 1 Planta.png
+iglesia-del-salvador-de-carabias
+RI-51-0004481
+La Roda.JPG
+La Roda
+Church of El Salvador, La Roda
+iglesia-del-salvador-de-la-roda
+Riópar
+Church of the Espíritu Santo, Riópar
+Riopar Viejo Albacete España Spain Iglesia del Espiritu Santo.jpg
+RI-51-0004544
+iglesia-del-espiritu-santo-de-riopar
+Vista Iglesia de Nuestra Señora de la Asunción de Navalcarnero.jpg
+Navalcarnero
+RI-51-0004778
+Church of Nuestra Señora de la Asunción, Navalcarnero
+Category:Interior of the Church of Nuestra Señora de la Asunción, Navalcarnero
+Church of Nuestra Señora de la Asunción, Labastida
+Iglesia de Nuestra Señora de la Asunción..jpg
+Labastida - N. S Asuncion 16.jpg
+RI-51-0005105
+Labastida
+http://www.euskadi.eus/app/ondarea/eraikita-ondarea/andre-mariaren-zeruratzearen-eliza/eliza/labastida-bastida/labastida-bastida/casco-historico/fichaconsulta/27492
+http://www.euskadi.eus/app/ondarea/patrimonio-construido/iglesia-de-la-asuncion-de-nuestra-senora/iglesia/labastida-bastida/labastida-bastida/casco-historico/fichaconsulta/27492
+Category:Interior of the Church of Nuestra Señora de la Asunción, Labastida
+Iglesia de Pinilla de Jadraque.jpg
+RI-51-0001645
+Pinilla de Jadraque
+Church of Pinilla de Jadraque
+Pinilla de Jadraque (GUA) Nª Sª de la Asuncion Planta.png
+iglesia-de-la-asuncion-de-pinilla-de-jadraque
+Annunciation
+Peñas de San Pedro
+Penas de San Pedro iglesia.jpg
+Church of Nuestra Señora de la Esperanza, Peñas de San Pedro
+RI-51-0004305
+http://www.parroquiapenasdesanpedro.org
+iglesia-de-nuestra-senora-de-la-esperanza
++1716-00-00T00:00:00Z
+Tobarra-iglesia-de-la-Asuncion-reloj-de-la-villa.jpg
+RI-51-0010503
+Tobarra
+iglesia-de-la-asuncion-de-tobarra
+Iglesia de Estremera.JPG
+Estremera
+RI-51-0004641
+Iglesia parroquial de Nuestra Señora de los Remedios, Estremera
+Church of San Andrés, Madrid
+Iglesia de San Andrés (Madrid) 04.jpg
+RI-51-0009076
+plaza de los Carros
+F1.38
+Pedro de la Torre
+Andrew
+Category:Interior of the Church of San Andrés, Madrid
+Iglesia en Cubas de la Sagra.jpg
+Cubas de la Sagra
+RI-51-0004785
+Iglesia parroquial de San Andrés Apóstol, Cubas de la Sagra
+Church of San Antonio de los Alemanes, Madrid
+Catholic church
+Iglesia de San Antonio de los Alemanes (Madrid) 01.jpg
+7616135-3
+245875902
+Iglesia de San Antonio de los Alemanes (Madrid)
+F1.28
+Pedro Sánchez
+RI-51-0003915
+Anthony of Padua
+calle de la Ballesta
+calle de la Puebla
+iglesia-de-san-antonio-de-los-alemanes
++1624-00-00T00:00:00Z
+1635041529568314549
+Category:Interior of the Church of San Antonio de los Alemanes, Madrid
+IglesiaTarazonaMancha.JPG
+RI-51-0007370
+Tarazona de la Mancha
+Church of San Bartolomé, Tarazona de la Mancha
+n88061100
+141998225
+Church of San Blas, Villarrobledo
+Iglesia de San Blas.jpg
+RI-51-0004244
+Villarrobledo
+iglesia-de-san-blas-de-villarrobledo
+Blaise of Sebaste
+Abalos - San Esteban Protomartir 24.JPG
+RI-51-0003918
+Ábalos, La Rioja
+Church of San Esteban Protomártir, Ábalos
+Category:Interior of the Church of San Esteban Protomártir, Ábalos
+Tetuán
+Bellas Vistas
+Joaquín Saldaña y López
+Iglesia de San Francisco de Sales (Madrid) 01.jpg
+Church of San Francisco de Sales, Madrid
+F2.225
+RI-51-0009568
+Calle de Francos Rodríguez, Madrid
+Francis de Sales
+Category:Interior of the Church of San Francisco de Sales, Madrid
+Iglesia San Fermin de los Navarros.jpg
+Church of San Fermín de los Navarros
+RI-51-0009079
+Chamberí
+F2.40
+Neo-Mudéjar
+Eugenio Jiménez Correa
+Carlos Velasco Peinado
+Iglesia de San Fermín de los Navarros, planta, Resumen de Arquitectura, 31-09-1891.jpg
++1890-00-00T00:00:00Z
+nr2006028088
+127144452
+Category:Interior of the Church of San Fermín de los Navarros
+Iglesia de San Ginés4.jpg
+RI-51-0000604
+Church of San Ginés, Guadalajara (Spain)
+iglesia-de-san-gines-de-guadalajara
+Genesius of Arles
+RI-51-0004564
+Iglesia de San Ginés (Madrid) 09.jpg
+Iglesia de San Ginés, Madrid
+4784459-0
+Iglesia de San Ginés (Madrid)
+F1.39
+Neo-Plateresque architecture
+Category:Iglesia de San Ginés, Madrid
+Category:Interior of the Iglesia de San Ginés, Madrid
+Auñamendi ID
+Agurain 2008 2 4.JPG
+RI-51-0005110
+Agurain/Salvatierra
+154774
+Church of San Juan, Salvatierra-Agurain
+http://www.euskadi.eus/app/ondarea/eraikita-ondarea/san-juan-eliza/eliza/agurain-salvatierra/agurain-salvatierra/arriaga/fichaconsulta/27043
+http://www.euskadi.eus/app/ondarea/patrimonio-construido/iglesia-de-san-juan/iglesia/agurain-salvatierra/agurain-salvatierra/arriaga/fichaconsulta/27043
+Category:Interior of the Church of San Juan, Salvatierra-Agurain
+Alcalá de los Gazules
+Portada de San Jorge Alcalá.jpeg
+RI-51-0006913
+i19497
+Church of San Jorge, Alcalá de los Gazules
+Church of San José, Madrid
+Iglesia de San José (Madrid) 01.jpg
+F1.66
+RI-51-0009137
+Calle de Alcalá
+Church of San José (Madrid)
+Pedro de Ribera
+Juan Moya Idígoras
+Category:Interior of the Church of San José, Madrid
+Arganda del Rey - Iglesia de San Juan Bautista 12.JPG
+RI-51-0010491
+Arganda del Rey
+Church of San Juan Bautista, Arganda del Rey
+Jodra del Pinar-San Juan Degollado7.JPG
+RI-51-0006977
+Saúca
+Jodra del Pinar
+Church of San Juan Degollado, Jodra del Pinar, Spain
+iglesia-de-jodra-del-pinar
+Church of San Marcos, Jerez de la Frontera
+San Marcos fachada Jerez.jpg
+RI-51-0000496
+i1346
+Mark the Evangelist
+Category:Interior of the Church of San Marcos, Jerez de la Frontera
+Parroquia San Marcos DSCF0003.JPG
+Church of San Marcos, Madrid
+F1.69
+RI-51-0001160
+Ventura Rodríguez
+Category:Interior of the Church of San Marcos, Madrid
+Iglesia de San Martín (Entrena).jpg
+RI-51-0005036
+Entrena
+RI-51-0007131
+Iglesia de San Miguel Beleña de Sorbe - Guadalajara.jpg
+Saint Michael's Church, Beleña de Sorbe
+Beleña de Sorbe
+Beleña de Sorbe (Guadalajara) San Miguel 1 Planta.png
+Church of San Miguel, Jerez de la Frontera
+San Miguel Fachada Jerez.JPG
+Renacimiento
+RI-51-0000497
+Iglesia de San Miguel, Jerez de la Frontera, España, 2015-12-07, DD 03-05 HDR.JPG
+292877006
+Category:Interior of the Church of San Miguel, Jerez de la Frontera
+e-mail address
+start time
+Iglesia en Camarma de Esteruelas.jpg
+RI-51-0009948
+Iglesia Parroquial de San Pedro Apóstol, Esteruelas
+http://www.parroquiadecamarma.org/
+Camarma de Esteruelas
++34-918-86-58-89
+mailto:parroquiadecamarma@gmail.com
+Mudéjar architecture
+Pza. de San Pedro, 1. 28816 Camarma de Esteruelas
+Iglesia de San Pedro ad Víncula (Madrid) 01.jpg
+Iglesia de San Pedro ad Víncula, Madrid
+F3.277
+Juan de Herrera
+RI-51-0009040
+Iglesia de San Pedro ad vincula (Vallecas - Madrid).JPG
+Church of San Vicente Mártir, Vitoria-Gasteiz
+Vitoria - San Vicente 25.JPG
+late Gothic
+RI-51-0005102
+Vincent of Saragossa
+http://www.euskadi.eus/app/ondarea/eraikita-ondarea/san-bizente-eliza/eliza/vitoria-gasteiz/vitoria-gasteiz/casco-historico/fichaconsulta/28101
+http://www.euskadi.eus/app/ondarea/patrimonio-construido/iglesia-de-san-vicente/iglesia/vitoria-gasteiz/vitoria-gasteiz/casco-historico/fichaconsulta/28101
+Category:Interior of the Church of San Vicente Mártir, Vitoria-Gasteiz
+Iglesia Bonillo.jpg
+RI-51-0007359
+El Bonillo
+Iglesia de Santa Catalina (Caudete)
+Iglesia de Santa Catalina (Caudete).jpg
+RI-51-0007361
+Caudete
+iglesia-de-santa-catalina-de-caudete
+Church of Santa Eulalia, Ujo
+Ujo (Mieres) - Iglesia de Santa Eulalia o Santa Olaya 9.jpg
+RI-51-0000245
+Uxo
+Eulalia of Mérida
+Andra Mari Agurain 2008 2 4.jpg
+RI-51-0005109
+Church of Santa María, Salvatierra-Agurain
+http://www.euskadi.eus/app/ondarea/eraikita-ondarea/santa-maria-eliza/eliza/agurain-salvatierra/agurain-salvatierra/arriaga/fichaconsulta/27044
+http://www.euskadi.eus/app/ondarea/patrimonio-construido/iglesia-de-santa-maria/iglesia/agurain-salvatierra/agurain-salvatierra/arriaga/fichaconsulta/27044
+Category:Interior of the Church of Santa María, Salvatierra-Agurain
+Fuenmayor - Iglesia de Santa María - DSC 4869 W.jpg
+RI-51-0004556
+Fuenmayor
++1201-01-17T00:00:00Z
+Santa María de Junco - 03.jpg
+Ribadesella
+RI-51-0003783
+Church of Santa María de Llas
+Iglesia de Santa María de Llas - 07.jpg
+Cabrales
+RI-51-0007220
+Celón
+RI-51-0003920
+Allande
+Logroño - Santa Maria del Palacio 01.jpg
+RI-51-0001140
+n97040993
+140892749
+Colunga
+Church of Santa María de Sábada
+Iglesia de Santa María de Sabada.jpg
+Lastres
+RI-51-0007345
+Santa María de Sariegomuerto.jpg
+RI-51-0001640
+Saint Mary of Sariegomuerto church
+Iglesia de Santa María de los Reyes - panoramio.jpg
+Church of Santa María de los Reyes, Laguardia
+RI-51-0000362
+Laguardia, Álava
+n2004005791
+http://www.euskadi.eus/app/ondarea/eraikita-ondarea/santa-maria-de-los-reyes-eliza/eliza/laguardia/laguardia/casco-historico/fichaconsulta/26120
+http://www.euskadi.eus/app/ondarea/patrimonio-construido/iglesia-de-santa-maria-de-los-reyes/iglesia/laguardia/laguardia/casco-historico/fichaconsulta/26120
+138576707
+Category:Interior of the Church of Santa María de los Reyes, Laguardia
+Alcorcón
+Frontal de Iglesia en Alcorcón.jpg
+RI-51-0008298
+Church of Santa María la Blanca, Alcorcón
+Church of Santa María de la Varga
+Uceda667.JPG
+RI-51-0007128
+Uceda
+Uceda (Guadalajara) Sª Mª de la Varga 1 Planta.png
+iglesia-de-santa-maria-de-la-varga
+Iglesia Chinchilla portada.jpg
+RI-51-0000235
+Chinchilla de Montearagón
+Church of Santa María del Salvador (Chinchilla de Montearagón)
+iglesia-de-santa-maria-del-salvador
+Portal of the Church of Santa María la Real, Sangüesa
+Church of Santa María la Real, Sangüesa
+Sangüesa - Santa Maria la Real - Portada Sud S.XII-XIII-02.JPG
+Sangüesa - Santa Maria la Real S.XII-XIII (1).jpg
+Iglesia de Santa Maria la Real de Sanguesa.jpg
+Santa Maria La Real, Sangüesa6.jpg
+Sangüesa
+RI-51-0000056
+Aragonese Way
+669-385
+Queen of Heaven
+Category:Interior of the Church of Santa María la Real, Sangüesa
+Colexiata de Santa María de Sar
+Colexiata Santa María a Maior e Real do Sar, Santiago de Compostela.jpg
+RI-51-0000071
+Category:Interior of the Colexiata de Santa María de Sar
+RI-51-0007362
+IglesiadeSantaQuiteriaElchedelaSierra.jpg
+Elche de la Sierra
+Vista frontal de iglesia en Villa del Prado.jpg
+Villa del Prado
+RI-51-0004453
+Iglesia Parroquial de Santiago Apóstol, Villa del Prado
+Church of Santiago, Jerez de la Frontera
+Jerez de la Fra. Iglesia de Santiago. Fachada.JPG
+Spanish Gothic architecture
+RI-51-0000495
+235716176
+Category:Interior of the Church of Santiago, Jerez de la Frontera
+Iglesia de Santiago, Guadalajara.jpg
+RI-51-0001175
+Church of Santiago, Guadalajara
+iglesia-de-santiago-de-guadalajara
+Church of Santo Tomás, Haro
+Haro - Santo Tomas 31.JPG
+RI-51-0000705
+Haro, La Rioja
+Thomas the Apostle
+Albacete - Convento de la Encarnacion.jpg
+RI-51-0004242
+Sol
+Iglesia de Nuestra Señora del Carmen (Madrid) 04.jpg
+F1.24
+RI-51-0004812
+Church of El Carmen and San Luis, Madrid
+Our Lady of Mount Carmel
+Category:Interior of the Church of El Carmen and San Luis, Madrid
+Hellin-Albacete-iglesia-Asuncion.jpg
+RI-51-0004538
+Hellín
+Church of the Asunción, Hellín
+iglesia-de-la-asuncion-de-hellin
+Letur-Albacete-Spain.jpg
+RI-51-0004752
+Letur
+Iglesia de la Buena Dicha (Madrid) 02.jpg
+Centro
+Universidad
+F1.273
+Francisco García Nava
+RI-51-0008657
+calle de Silva
+Church of la Buena Dicha
+eclectic architecture
+Category:Interior of the Church of la Buena Dicha
+VistaDeLaIglesiaDeLaMagdalenaTorrelaguna-rectangular.jpg
+Church of Santa María Magdalena, Torrelaguna
+Torrelaguna
+RI-51-0004866
+Iglesia Santa María Magdalena. Vista nocturna - Villa de Torrelaguna (Madrid).jpg
+Category:Interior of the Church of Santa María Magdalena, Torrelaguna
+AlcarazTwinTowers.jpg
+Portada de la iglesia de la Santísima Trinidad de Alcaraz (Albacete).jpg
+RI-51-0004658
+Alcaraz
+Church of the Santísima Trinidad, Alcaraz
+Gothic art
+iglesia-de-la-santisima-trinidad-de-alcaraz
+Trinity
+Church of Nuestra Señora del Rivero, San Esteban de Gormaz
+IglesiaDeNuestraSeñoraDelRivero-rectangular.jpg
+RI-51-0009071
+San Esteban de Gormaz
+13702
+Iglesia san miguel de barcena.JPG
+Tineo
+RI-51-0008207
+Salas
+Iglesia de San Martín de Salas.jpg
+RI-51-0001262
+Colegiata de Santa María la Mayor, Salas
+Iglesia de Santa María Magdalena de Cangas del Narcea.jpg
+Cangas del Narcea
+RI-51-0004684
+Colegiata de Santa María Magdalena, Cangas del Narcea
+Church of Santo Domingo, Cádiz
+RI-51-0005344
+Convento de Nuestra Señora del Rosario y Santo Domingo, Cádiz.JPG
+human settlement
+315121697
+Church (old) of Santo Tomás de Canterbury, Avilés
+Avilés
+Aviles - Iglesia de Santo Tomas de Canterbury (iglesia vieja de Sabugo) 4.jpg
+RI-51-0011511
+Thomas Becket
+El Pino
+Iglesia de San Félix (El Pino) 009 1.jpg
+RI-51-0003900
+Church of Saint Félix, El Pino
++1762-00-00T00:00:00Z
+Aller
+Vista-general-iglesia-san-vicente-serrapio.jpg
+RI-51-0003858
+RI-51-0000106
+Dolmen de Lácara (6910004530).jpg
+dolmen
+Mérida
+Dolmen of the field of Lácara
+Ermita de Santiago Monsacro 0013.jpg
+Morcín
+RI-51-0007246
+Capilla La Madalena Monsacro 0014.jpg
+RI-51-0007245
+Cathedral of Granada
+Granada
+Spain Andalusia Granada BW 2015-10-25 13-20-43.jpg
+/m/0gkmcf
+Roman Catholic Archdiocese of Granada
+7626577
+4071989-3
+http://catedraldegranada.com/
+155439606
+0000 0001 2035 0460
+XX116636
+n80107520
++1600-00-00T00:00:00Z
+Catedral de Granada
+RI-51-0000339
+8990
+Chapel of Our Lady la Antigua
+Category:Cathedral of Granada
+ko2011638817
+Category:Interior of the Cathedral of Granada
+Castle of Alcalá de los Gazules
+Castillo de alcalá de los gazules.jpg
+RI-51-0007541
+San Juan de Priorio.jpg
+Priorio
+Church of San Juan de Priorio
+RI-51-0001637
+John the Evangelist
+Collegiate of Nuestra Señora del Manzano, Castrojeriz
+Exterior de la colegiata de Castrojeriz.JPG
+Castrojeriz
+1909
+RI-51-0003934
+Roman Catholic Archdiocese of Burgos
+Berengaria of Castile
++1214-00-00T00:00:00Z
+Category:Interior of the Collegiate of Nuestra Señora del Manzano, Castrojeriz
+Matapozuelos
+Church of Santa María Magdalena, Matapozuelos
+Iglesia de Matapozuelos.jpg
+14716
+RI-51-0010224
+Roman Catholic Archdiocese of Valladolid
+Category:Interior of the Church of Santa María Magdalena, Matapozuelos
+place name sign
+Cádiz Province
+El Puerto de Santa María
+Patio casa cadenas.jpg
+RI-51-0011421
+Casa Vizarrón
+Casa de las Cadenas (37020730895).jpg
+Plaza del Polvorista
+Church of San Cayetano, Madrid
+Iglesia de San Cayetano 1 edited.jpg
+F1.50
+RI-51-0004425
+Calle del Oso, Madrid
+Marcos López
+José Benito de Churriguera
+Francisco Moradillo
+Pasaje Lodares.jpg
+Pasaje de Lodares
+RI-51-0005451
+pasaje-de-lodares
+Iglesia de San Andrés, Bedriñana
+San Andrés de Bedriñana - 02.jpg
+Bedriñana
+RI-51-0000796
+Church of San Isidoro el Real, Oviedo
+jesuit church
+Iglesia de San Isidoro (Oviedo).jpg
+RI-51-0004901
+Society of Jesus
+nr2006025232
+140021831
+Category:Interior of the Church of San Isidoro el Real, Oviedo
+Church of San Juan de Amandi
+Amandi (Villaviciosa) - Iglesia de San Juan 02.jpg
+RI-51-0000791
+Iglesia de San Juan (Camoca) - 09.jpg
+RI-51-0008752
+Iglesia de San Juan (Camoca)
+Iglesia de San Salvador de Fuentes - 15.jpg
+RI-51-0000801
+Iglesia de San Salvador (Fuentes)
+Santa Cecilia de Careñes - 1.jpg
+RI-51-0009101
+Church of Santa Cecilia, Careñes
+Saint Cecilia
+Iglesia de Santa Eulalia, Selorio
+Iglesia de Santa Eulalia (Selorio) 01.JPG
+RI-51-0001641
+Navia
+RI-51-0011547
+Puerto de Vega Asturias iglesia Santa Marina ni.JPG
+Iglesia de Santa María (Arbazal).jpg
+RI-51-0011520
+Church of Santa María, Arbazal
+Church of Santa María, Luanco
+Luanco 01.jpg
+RI-51-0007221
+Gozón
+Lluanco / Luanco
+Fachada oeste campanario puerta principal.jpg
+Carreño
+RI-51-0009018
+Saint Mary of Sebrayo Church
+Sebrayo 01 iglesia Santa Maria by-dpc.jpg
+RI-51-0008748
+Iglesia de Santa María (Soto de Luiña) 023.jpg
+Cudillero
+RI-51-0009584
+Church of Santa María, Soto de Luiña
+Piloña
+RI-51-0000802
+VILLAMAYOR (INFIESTO) IGLESIA DE SANTA MARÍA.JPG
+Iglesia de Santiago en Arlós - 29.jpg
+Llanera
+RI-51-0011517
+Iglesia de Santiago (Arlós)
+Iglesia de Santiago el Mayor (Sariego).jpg
+RI-51-0010205
+Sariegu
+Church of Santiago El Mayor de Sariego
+de5db07b-f9db-4a6f-9aac-090c4696dcda
+Church of Santo Domingo, Oviedo
+Iglesia de Santo Domingo-Oviedo- 03.JPG
+RI-51-0001159
+Saint Dominic
+Category:Interior of the Church of Santo Domingo, Oviedo
+Iglesia de Santo Tomás (Coro) - 01.jpg
+RI-51-0008751
+Church of Santo Tomás, Coro
+Kailashnath Mahadev Statue.jpg
+Kailashnath Mahadev Statue
+Lahore
+Kashmiri Gate, Lahore
+Kashmiri Gate 05.jpg
+RI-51-0001173
+Alcaraz Plaza.-Albacete.JPG
+plaza mayor
+Alcaraz Square
+Museo de Almería
+http://www.museosdeandalucia.es/culturaydeporte/museos/MAL/?lng=en
++1933-03-28T00:00:00Z
++55617
+8629843
+146030459
+305977785
+0000 0001 2342 2511
+XX267001
+n2006072727
+16283714-8
+129265683
+02-A021949662
+02-A021951525
+RI-51-0001305
+124
+Fachada Museo Almería.jpg
+Carretera de Ronda, 91
+Category:Museo de Almería
+museo-de-almeria
+Category:Interior of the Museo de Almería
+Historic Scotland ID
+Canmore ID
+United Kingdom
+/m/0568wq
+LB27820
+Tourists posing at the National Monument of Scotland.jpg
+National Monument of Scotland View from Above.jpg
+category A listed building
+National Monument, Edinburgh
+Edinburgh
+City of Edinburgh
+75954
+image of interior
+Palace of Infante don Luis, Boadilla del Monte
+/m/0h3pkx6
+Boadilla del Monte
+Palacio del infante don Luis, Boadilla 02.jpg
+RI-51-0003950
++1765-00-00T00:00:00Z
+Palacio del Infante don Luis (Boadilla del Monte) 02.jpg
+172107116
+Category:Interior of Palace of Infante don Luis, Boadilla del Monte
+Shaheed Minar, Kolkata
+Shahid Minar Kolkata Arnab Dutta 2011.jpg
+Ward No. 46, Kolkata Municipal Corporation
++1828-00-00T00:00:00Z
+Esplanade
+KMC Heritage Building Grade I
+Sido Kanhu Dahar
+David Ochterlony
+city hall
+Cabildo Viejo Plaza Asuncion Panoramica Jerez.jpg
+Town Hall in Jerez de la Frontera
+Antigua casa del Cabildo, Jerez de la Frontera
+RI-51-0001135
+Basílica de San Martiño de Mondoñedo
+San Martiño de Mondoñedo
+San Martiño de Mondoñedo, Foz.jpg
+RI-51-0000716
+Roman Catholic Diocese of Mondoñedo-Ferrol
+Martin of Braga
+2085535
+Church of San Andrés, Elciego
+Eltziego eliza 2006-09-15.jpg
+RI-51-0005104
+Elciego
+http://www.euskadi.eus/app/ondarea/eraikita-ondarea/san-andres-eliza/eliza/elciego/elciego/fichaconsulta/27691
+http://www.euskadi.eus/app/ondarea/patrimonio-construido/iglesia-de-san-andres/iglesia/elciego/elciego/fichaconsulta/27691
+Iglesia de San Andrés (Valdebárzana)
+Valdebárzana
+Iglesia de San Andrés (Valdebárzana) - 01.jpg
+RI-51-0001638
+said to be the same as
+Church of San Dionisio, Jerez de la Frontera
+Church of San Dionisio
+Iglesia-san-dionisio-jerez-frontera-2012.jpg
+RI-51-0001605
+Saint Dionysius
+Category:Interior of the Church of San Dionisio, Jerez de la Frontera
+Church of San Pedro, Caracena
+Caracena San Pedro.jpg
+RI-51-0001093
+12591
+Caracena
+San Pedro de Caracena (Soria)
+Category:Church of San Pedro, Caracena
+RI-51-0004717
+Monasterio de Hermo.JPG
+Iglesia de Santa María (Tanes).jpg
+RI-51-0011513
+Casu
+Tanes
+Iglesia de Santa María, Caso
+Palacio de Villena en Cadalso de los Vidrios.jpg
+RI-51-0000726
+Cadalso de los Vidrios
+Arquitectura y Desarrollo Urbano: Comunidad de Madrid. Tomo VI
+Palacio de Villena, Cadalso de los Vidrios
+Álvaro de Luna, Duke of Trujillo
+Church of Nuestra Señora de la Peña, Faido
+Faido - Ermita Nuestra Señora de la Peña.JPG
+RI-51-0005107
+Araba / Álava
+Peñacerrada-Urizaharra
+http://www.euskadi.eus/app/ondarea/eraikita-ondarea/la-penako-andramariaren-eliza/eliza/penacerrada-urizaharra/faido-faidu/fichaconsulta/27499
+http://www.euskadi.eus/app/ondarea/patrimonio-construido/iglesia-de-nuestra-senora-de-la-pena/iglesia/penacerrada-urizaharra/faido-faidu/fichaconsulta/27499
+Church of San Esteban de Sograndio
+Sograndio
+Sograndio-2-vista genera-desde occidente-cercana.JPG
+RI-51-0008206
+Asturian Romanesque
+Santa Eulalia de Abamia - 09.jpg
+RI-51-0001428
+Church of Santa Eulalia de Abamia
+Degaña
+RI-51-0011535
+Iglesia de Santa María de la Oliva.jpg
+Church of Santa María de la Oliva, Villaviciosa
+RI-51-0000804
++1270-00-00T00:00:00Z
+7522258
+Museo de Cádiz
+131103033
+156563238
+172486662
+135880765
+0000 0001 2259 7678
+n83182989
+nr96035106
+12302358k
+031893856
+http://www.juntadeandalucia.es/cultura/museos/MCA/
+16322630-1
+1006861-2
+235559-0
+XX114402
+A32612011
+a11144166
+n2014015841
+Sala Zurbarán del Museo de Cádiz.jpg
++1835-00-00T00:00:00Z
+2147
+RI-51-0001338
+museo-de-cadiz
+museum-of-cadiz
+Category:Interior of the Museo de Cádiz
+Nelson's Monument, Edinburgh
+LB27823
+Nelson Monument, Calton Hill, Edinburgh.JPG
+247466210
+299424
+Horatio Nelson
+52378
+Iznájar
+Castillo iznajar.jpg
+i22521
+RI-51-0007679
+Castle of Iznájar
+Garrucha
+10344243
+Garruchacast.jpg
+RI-51-0007486
+Castillo de las Escobetas
+Cultural Heritage Armenia ID
+described at URL
+directions
+1.6/124
+Կոմիտաս հուշարձան 3.JPG
+Armenia
+Yerevan
+Kentron District
++1988-01-08T00:00:00Z
+Komitas statue, Yerevan
+Ara Harutyunyan
+Feniks Darbinyan
+bronze
+http://www.armmonuments.am/15660-1.6.124-հուշարձան-կոմիտասի.html
+Komitas
+cultural heritage monument in Armenia
+Սայաթ-Նովայի պող. 1ա
+hy
+Chandigarh
+Le Corbusier
+Open Hand Monument in Chandigarh.jpg
+Open Hand Monument, Chandigarh
+1948
+Chandigarh Capitol Complex
++1964-00-00T00:00:00Z
++26
+188415020
+commemorative plaque image
+Baab-E-Khyber 2.jpg
+Bab-e-Khyber
+Khyber Pakhtunkhwa
+2007 08 27 Pakistan Khyber Pass locals commemoration plaque IMG 9943.jpg
+Tomb of Nur Jahan
+Tomb of Noor Jahan at Shahdara.jpg
+tree
+Dilijan
+King of Forest, Dilijan.jpg
+Ara Sargsian
+King of Forest, Dilijan
+king
+Dedicated to the 115th anniversary of Ara Sargsyan
+Tomb of Ustad vill Talania Sirhind 01.jpg
+Indian Standard Time
+Fatehgarh Sahib District
+Tomb of Anar Kali Lahore.jpg
+Tomb of Anarkali
+located on terrain feature
+Japan
+Hokkaido Dai Kannon in Ashibetsu city (8223394316).png
++1989-01-01T00:00:00Z
+Hokkaidō
+Hokkaido Kannon
+Ashibetsu
+Rajgruha
+Rajgruha - the house of Dr. Babasaheb Ambedkar at Mumbai. 03.jpg
+Bhim Janma Bhoomi
+Dr. Bhimrao Ambedkar Memorial Mhow.jpg
+Mandi district
+Mandi, Himachal Pradesh
+N-HP-35
+Bersela Monument Mandi Himachal Pradesh.jpg
+Barsela monuments
+Hindu temple
+Mallikarjuna temple complex at Aihole.jpg
++0760-00-00T00:00:00Z
+Karnataka
+Bagalkot district
+Hungund Taluk
+ASI Monument Karnataka
