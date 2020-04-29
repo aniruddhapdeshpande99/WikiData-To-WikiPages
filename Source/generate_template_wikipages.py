@@ -75,9 +75,8 @@ def retrieve_data():
     film_titles = [x.strip() for x in film_titles]
 
     film_urls = []
-    with open('../Data/Films/WikiBio_Styled_Formatted_Data/train/train.url') as f:
-        film_urls = f.readlines()
-    film_urls = [x.strip() for x in film_urls]
+    for title in film_titles:
+        film_urls.append("https://hi.wikipedia.org/w/index.php?title="+title)
 
     film_details = {}
 
@@ -241,20 +240,20 @@ def get_categories_infobox(film):
         link = film['लागत'][0]['इकाई']
         amount = film['लागत'][0]['राशि'].split('+')[-1]
         currency = currencies[link.rsplit('/', 1)[-1]]
-        infobox['लागत'] = amount + " " + currency
+        infobox['लागत'] = [amount + " " + currency]
 
     if 'बॉक्स ऑफिस' in film.keys():
         link = film['बॉक्स ऑफिस'][0]['इकाई']
         amount = film['बॉक्स ऑफिस'][0]['राशि'].split('+')[-1]
         currency = currencies[link.rsplit('/', 1)[-1]]
-        infobox['बॉक्स ऑफिस'] = amount + " " + currency
+        infobox['बॉक्स ऑफिस'] = [amount + " " + currency]
 
     if 'प्रकाशन तिथि' in film.keys():
         date = film['प्रकाशन तिथि'][0]['समय']
         year = re.findall('\+[\s]*(.*?)\-', date)[0]
         month = re.findall('\-(.*?)\-', date)[0]
         day = re.findall('\-(.*?)T', date)[0][-2:]
-        infobox['प्रकाशन तिथि'] = day + "/" + month + "/" + year
+        infobox['प्रकाशन तिथि'] = [day + "/" + month + "/" + year]
 
     if 'पहलू अनुपात' in film.keys():
         infobox['duration'] = film['पहलू अनुपात'][0]
@@ -421,7 +420,7 @@ def main():
 
     #Retrieving Needed Data and creating a Wikipage using template sentences.
     film_details,sentence_templates, hi_labelled_films, en_prop_key = retrieve_data()
-    page_key = 'Q24815'
+    page_key = random.choice(list(hi_labelled_films.keys()))
     wikipage = create_wikipage(page_key, film_details, sentence_templates, hi_labelled_films, en_prop_key)
     wikipage['film_details'] = film_details[page_key]
     print(wikipage)

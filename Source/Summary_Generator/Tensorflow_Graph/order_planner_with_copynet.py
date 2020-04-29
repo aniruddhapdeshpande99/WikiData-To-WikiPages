@@ -315,7 +315,7 @@ def get_computation_graph(seed_value, field_vocab_size, content_label_vocab_size
                     '''
                     #-----------------------------------------------------------------------------------------------------
                     #| This is the Copy Mechanism derived from the CopyNet (Gu et al.)
-                    #| (~Anindya)
+                    #| 
                     #-----------------------------------------------------------------------------------------------------
                     '''
                     # calculate the copy score

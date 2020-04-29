@@ -12,7 +12,7 @@ np.random.seed(seed_value) # set this seed for a device independant consistent b
 
 ''' Set the constants for the script '''
 # various paths of the files
-data_path = "../Data" # the data path
+data_path = "../Data/Films/WikiBio_Styled_Formatted_Data/train/plug_and_play.pickle" # the data path
 
 data_files_paths = {
     "table_content": os.path.join(data_path, "train.box"),
@@ -20,7 +20,7 @@ data_files_paths = {
     "train_sentences": os.path.join(data_path, "train.sent")
 }
 
-base_model_path = "Models"
+base_model_path = "../Models"
 plug_and_play_data_file = os.path.join(data_path, "plug_and_play.pickle")
 
 

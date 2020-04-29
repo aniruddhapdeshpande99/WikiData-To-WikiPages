@@ -1,0 +1,4 @@
+model_checkpoint_path: "Model_1(without_copy_net)-6899"
+all_model_checkpoint_paths: "Model_1(without_copy_net)-6799"
+all_model_checkpoint_paths: "Model_1(without_copy_net)-6849"
+all_model_checkpoint_paths: "Model_1(without_copy_net)-6899"
