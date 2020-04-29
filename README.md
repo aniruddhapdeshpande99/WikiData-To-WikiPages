@@ -88,6 +88,7 @@ python trainer_with_copy_net.py
 
 * To display any random wikipage run the following shell script in Main Project Directory.
 ```
+chmod 755 display_random_wiki.sh
 ./display_random_wiki.sh
 Run 'index.html' in your browser.
 
